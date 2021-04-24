@@ -1,8 +1,8 @@
 version: "3.0"
 services:
   hugo:
-    image: klakegg/hugo:0.82.0
-    command: server
+    image: klakegg/hugo:0.82.0-ext-alpine
+    command: server -D
     volumes:
       - ".:/src"
     ports:

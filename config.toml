@@ -79,7 +79,7 @@ summarylength = 25
   # Banner Section
   [params.banner]
     enable                = true
-    background_image      = "images/backgrounds/hero-background.jpg"
+    background_image      = "images/backgrounds/background-mg.png"
     heading               = "Vous aider à enrichir et promouvoir votre catalogue"
     tagline               = "DÉCOUVRIR, CONCEVOIR, DIFFUSER"
     primary_button        = "Éditorial"
