@@ -1,10 +1,10 @@
 ---
-title: "ONE FOR ALL, ALL FOR ONE"
-date: 2021-04
+title: "KARL LAGERFELD"
+date: 2020-02
 type: portfolio
-image: "images/projects/Une-pour-tous-tous-pour-une.jpg"
-category: ["NOVEL 12+"]
-project_images: ["images/projects/Une-pour-tous-tous-pour-une.jpg"]
+image: "images/projects/Karl-Lagerfeld.jpg"
+category: ["ILLUSTRATED BIOGRAPHY NOVEL 10+"]
+project_images: ["images/projects/Karl-Lagerfeld.jpg"]
 ---
 
 Blabla

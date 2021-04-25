@@ -2,9 +2,9 @@
 title: "WHY I ATE LION"
 date: 2020-10
 type: portfolio
-image: "images/projects/Pourquoi-jai-mange-du-lion_couv.jpg"
+image: "images/projects/Pourquoi-jai-mange-du-lion.jpg"
 category: ["NOVEL 9+"]
-project_images: ["images/projects/project-details-Pourquoi-jai-mange-du-lion_couv.jpg"]
+project_images: ["images/projects/Pourquoi-jai-mange-du-lion.jpg"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
