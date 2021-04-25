@@ -34,12 +34,16 @@
         @include mobile{
           display: block;
         }
+        
         &:not(:last-child){
           margin-right: 30px;
           @include mobile{
             margin-right: 0;
             margin-bottom: 20px;
           }
+        }
+        a{
+          width: 100%;
         }
         .btn{
           font-weight: 600;

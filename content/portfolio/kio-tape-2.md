@@ -1,10 +1,10 @@
 ---
-title: "KIO-TAPE BRAND"
-date: 2019-12-23T20:56:42+06:00
+title: "WHY I ATE LION"
+date: 2021-04
 type: portfolio
 image: "images/projects/Pourquoi-jai-mange-du-lion_couv.jpg"
-category: ["PRODUCT LABEL"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+category: ["NOVEL 9+"]
+project_images: ["images/projects/project-details-Pourquoi-jai-mange-du-lion_couv.jpg"]
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
