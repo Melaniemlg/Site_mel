@@ -9,7 +9,7 @@ summarylength = 25
   # Navbar Menus
   [[menu.nav]]
     name    = "Menu"
-    url     = "menu"
+    url     = "home"
     weight  = 1
   [[menu.nav]]
     name    = "Éditorial"
@@ -90,6 +90,7 @@ summarylength = 25
   [params.portfolio]
     enable    = true
     title     = "NOUVEAUTÉS"
+    subtitle = "Foreign Rights"
 
 
   [params.footer]
@@ -101,7 +102,7 @@ summarylength = 25
       email   = "melanie.guillaumin.edition@gmail.com"
       # Footer Social Media
       [params.footer.social]
-        title   = "Actualité"
+        title   = "Actualités"
         [[params.footer.social.link]]
           name = "Instagram"
           url  = "https://www.instagram.com/mgeditorandagent/?hl=fr"
