@@ -1,9 +1,10 @@
 ---
 title: "WHY I ATE LION"
-date: 2020-10
+date: 2020-10-01
 type: portfolio
 image: "images/projects/Pourquoi-jai-mange-du-lion.jpg"
-category: ["ILLUSTRATED NOVEL 9+"]
+subtitle: ["ILLUSTRATED NOVEL 9+"]
+maison: "lpm"
 project_images: ["images/projects/Pourquoi-jai-mange-du-lion.jpg"]
 ---
 

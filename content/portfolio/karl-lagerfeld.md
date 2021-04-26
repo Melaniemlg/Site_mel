@@ -1,9 +1,10 @@
 ---
 title: "KARL LAGERFELD"
-date: 2020-02
+date: 2020-02-01
 type: portfolio
 image: "images/projects/mode-lagerfeld.jpg"
-category: ["ILLUSTRATED DOCU-FICTION 10+"]
+subtitle: ["ILLUSTRATED DOCU-FICTION 10+"]
+maison: "lpm"
 project_images: ["images/projects/mode-lagerfeld.jpg"]
 ---
 

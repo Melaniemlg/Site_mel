@@ -1,0 +1,25 @@
+<section class="site-blog">
+  <div class="container">
+    <div class="row">
+    {{ $maisoncode := .Params.maisoncode }}
+    {{ range first 6 (where $.Site.RegularPages "Type" "portfolio") }}
+    {{ if eq .Params.maison $maisoncode }}
+      <div class="col-lg-4 col-md-5 mx-auto">
+        <div class="site-project-item">
+          <div class="site-project-item-thumb">
+            <a href="{{ .Permalink }}" alt="couverture du livre">
+              <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+            </a>
+          </div>
+          <!-- <div class="site-project-item-content">
+            <span>{{ delimit .Params.subtitle ", " }}</span>
+            <h3>{{ .Title }}</h3>
+            <a href="{{ .Permalink }}" class="read-more">view project</a>
+          </div> -->
+        </div>
+      </div>
+    {{ end }}
+    {{ end }}
+    </div>
+  </div>
+</section>
