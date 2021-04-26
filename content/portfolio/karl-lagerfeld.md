@@ -2,10 +2,27 @@
 title: "KARL LAGERFELD"
 date: 2020-02
 type: portfolio
-image: "images/projects/Karl-Lagerfeld.jpg"
-category: ["ILLUSTRATED BIOGRAPHY NOVEL 10+"]
-project_images: ["images/projects/Karl-Lagerfeld.jpg"]
+image: "images/projects/mode-lagerfeld.jpg"
+category: ["ILLUSTRATED DOCU-FICTION 10+"]
+project_images: ["images/projects/mode-lagerfeld.jpg"]
 ---
 
-Blabla
+Written by **Anne Loyer**, illustrated by **Alice Dufay**.   
+121 pages   
+**Public aimed**: 10+ | Adults   
+**Genres**: Fiction | Q&A Biography | Illustrated primer   
+**Keywords**: HIGH-FASHION DESIGNER | KARL LAGERFELD | GERMANY   
 
+
+While the Second World War rages, the young Karl Lagerfeld grows up sheltered from its fury.   
+Cultivating his differences with his mother's blessing, he is nonetheless caught up in a growing desire to be elsewhere and to succeed...
+
+
+*This fiction evokes the childhood of Karl Lagerfeld, a tireless designer who ruled the fashion world for over sixty years*.
+*It is followed by a biography and an illustrated primer, to tell the story of the inventiveness of an extraordinary designer*.
+
+
+
+
+
+Interested in this book ? Contact me [here](mailto:melanie.guillaumin.edition@gmail.com)
