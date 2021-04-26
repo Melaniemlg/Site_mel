@@ -29,6 +29,6 @@ Not bad. But that doesn't explain everything...
 
 
 
-Interested in this book ? Contact me [here](mailto:melanie.guillaumin.edition@gmail.com)
+If you would like to receive further information, please contact me [here](mailto:melanie.guillaumin.edition@gmail.com)
 
 

@@ -26,5 +26,5 @@ But hush! Nothing must be leaked, otherwise everything will be ruined.
 
 
 
-Interested in this book ? Contact me [here](mailto:melanie.guillaumin.edition@gmail.com)
+If you would like to receive further information, please contact me [here](mailto:melanie.guillaumin.edition@gmail.com)
 
