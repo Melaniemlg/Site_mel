@@ -1,8 +1,8 @@
 ---
 title: "SCRINEO"
 date: 2020-11-02
-image: "images/blog/mode-lagerfeld.jpg"
-description: " cou ocu ocu cou c"
+image: "images/blog/scrineo.png"
+description: "Lectrice"
 ---
 
 **Lectrice**   

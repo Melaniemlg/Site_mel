@@ -20,7 +20,7 @@ Cultivating his differences with his mother's blessing, he is nonetheless caught
 
 
 *This fiction evokes the childhood of Karl Lagerfeld, a tireless designer who ruled the fashion world for over sixty years*.
-*It is followed by a biography and an illustrated primer, to tell the story of the inventiveness of an extraordinary designer*.
+*It is followed by a Q&A biography and an illustrated primer, to tell the story of the inventiveness of an extraordinary designer*.
 
 
 
