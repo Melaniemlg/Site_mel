@@ -1,31 +1,31 @@
 ---
-title: "ADRIENNE BOLLAND'S CRAZY ESCAPE"
-date: 2019-03-08
+title: "WILD SILK"
+date: 2019-11-07
 type: portfolio
-image: "images/projects/h-adrienne.jpg"
-subtitle: ["NOVEL 11+"]
+image: "images/projects/soie-sauvage.jpg"
+subtitle: ["PICTURE BOOK 6+"]
 maison: "lpm"
-project_images: ["images/projects/h-adrienne.jpg"]
+project_images: ["images/projects/soie-sauvage.jpg"]
 ---
 
-Written by **Sophie Guillou**.   
-164 pages, 13*21 cm   
-**Public aimed**: 11+   
-**Genre**: Novel      
-**Keywords**: AVIATRIX | HEROIN | ADRIENNE BOLLAND | ANDES CORDILLERA
+Written by **Anne Loyer**, illustrated by **Marie-Gabrielle Berland**.   
+48 pages, 23*30 cm   
+**Public aimed**: 6+   
+**Genre**: Picture book      
+**Keywords**: SEAMSTRESS | FASHION | DREAM | SEWING COMPETITION
 
 
-**October 1920**.   
-With her boyish cut, Adrienne is a young woman who likes to party with her friends.   
-But she’s nearly 24 years old now, and she wonders what she’s going to do with her life.   
-Getting married, no way! Working in an office either. All that she wants is to be as free as a bird.   
-
-**April 1921**. Outbreak of joy in the streets of Santiago de Chile and Buenos Aires.   
-While no one believed this feat even possible, the French aviatrix Adrienne Bolland, unknown until then, just passed the Andes mountain range aboard her plane, where many experienced pilots have lost their lives. She then becomes part of history.   
+Louise Galon is a young creator who has just settled down in Paris in order to present her work to a most fashionable stylist. Yet he does not show any enthusiasm for the dress Louise has worked on so hard. Disappointed, Louise is ready to give up on her dream.
+Thankfully, since she has arrived, a young man has been watching her closely, seduced by the woman’s artwork. He picks up the dress that she got rid of without her knowing and makes her participate in a talent contest. Louise is invited the day of the fashion show and cannot believe her eyes : she discovers a model running the catwalk with her dress on…   
 
 
 
+*The first picture book of Les petites moustaches.*      
 
-If you would like to receive further information, please [contact me](mailto:melanie.guillaumin.edition@gmail.com)
+
+
+
+
+If you would like to receive further information, please [contact me](mailto:melanie.guillaumin.edition@gmail.com).
 
 

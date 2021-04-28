@@ -9,8 +9,8 @@
             <p>{{ .subtitle }}</p>
           </div>
         </div>
-        {{ range first 6 (where $.Site.RegularPages "Type" "portfolio") }}
-        <div class="col-lg-4 col-md-5 mx-auto">
+        {{ range first 4 (where $.Site.RegularPages "Type" "portfolio") }}
+        <div class="col-lg-3 col-md-4 mx-auto">
           <div class="site-project-item">
             <div class="site-project-item-thumb">
               <img src="{{ .Params.Image | absURL }}" alt="project-thumb">

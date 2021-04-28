@@ -1,14 +1,7 @@
 ---
-title: "Les Petites Moustaches"
+title: "LES PETITES MOUSTACHES"
 date: 2020-11-02
-description: bla bla bla
+description: CHILDREN | FINE ARTS
 maisoncode: lpm
-image: "images/blog/mode-lagerfeld.jpg"
+image: "images/blog/logo_lpm.jpg"
 ---
-lbnlzablk jfdgjh jkldfh jklfdg kldfjgk jdfkg dfksgj kldfg kljkljdf kdf klg
-fg fdg fdg
- dfg
-  dfg
-   df
-   g df
-   g dfg fd

@@ -25,5 +25,5 @@ Thanks to her talent, Rose has established herself as the fashion dealer that ev
 
 
 
-If you would like to receive further information, please [contact me](mailto:melanie.guillaumin.edition@gmail.com)
+If you would like to receive further information, please [contact me](mailto:melanie.guillaumin.edition@gmail.com).
 

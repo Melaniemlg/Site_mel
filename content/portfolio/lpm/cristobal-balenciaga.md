@@ -1,30 +1,30 @@
 ---
-title: "SONIA RYKIEL"
-date: 2017-06-15
+title: "CRISTÓBAL BALENCIAGA"
+date: 2017-11-03
 type: portfolio
-image: "images/projects/mode-rykiel.jpg"
+image: "images/projects/mode-balenciaga.jpg"
 subtitle: ["ILLUSTRATED DOCU-FICTION 10+"]
 maison: "lpm"
-project_images: ["images/projects/mode-rykiel.jpg"]
+project_images: ["images/projects/mode-balenciaga.jpg"]
 ---
 
 Written by **Sophie Guillou**, illustrated by **Alice Dufay**.   
-144 pages   
+136 pages   
 **Public aimed**: 10+ | Adults   
 **Genres**: Fiction | Q&A Biography | Illustrated primer      
-**Keywords**: HIGH-FASHION DESIGNER | SONIA RYKIEL | PARIS          
+**Keywords**: HIGH-FASHION DESIGNER | CRISTÓBAL BALENCIAGA | SPAIN          
 
 
-In the summer of 1942, Sonia is passionately enjoying the countryside. 
-But it is not easy to be twelve years old when you have red hair, are undisciplined and there is a war on...
+In July 1906, everything is quiet in the small Spanish village of Getaria. Young Cristóbal is bored.
+But thanks to the Marquise of Casa Torres, he will experience weeks that will change his life.
 
 
-*This novel evokes the childhood of Sonia Rykiel, a whimsical and free woman who invented the concept of "demode".*        
-*It is followed by a Q&A biography and an illustrated primer, to tell the story of over forty years of creation in images.*
+*This novel traces the childhood of the "master of fashion designers", Cristóbal Balenciaga, who dominated fashion in the 1950s and 1960s.*    
+*It is followed by a Q&A biography and an illustrated primer, to reenact his elegant, uncluttered style in pictures.*
 
 
 
 
 
-If you would like to receive further information, please [contact me](mailto:melanie.guillaumin.edition@gmail.com)
+If you would like to receive further information, please [contact me](mailto:melanie.guillaumin.edition@gmail.com).
 

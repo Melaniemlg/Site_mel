@@ -1,31 +1,35 @@
 ---
-title: "WILD SILK"
-date: 2019-11-07
+title: "WHY I ATE LION"
+date: 2020-10-01
 type: portfolio
-image: "images/projects/soie-sauvage.jpg"
-subtitle: ["PICTURE BOOK 6+"]
+image: "images/projects/Pourquoi-jai-mange-du-lion.jpg"
+subtitle: ["ILLUSTRATED NOVEL 9+"]
 maison: "lpm"
-project_images: ["images/projects/soie-sauvage.jpg"]
+project_images: ["images/projects/Pourquoi-jai-mange-du-lion.jpg"]
 ---
 
-Written by **Anne Loyer**, illustrated by **Marie-Gabrielle Berland**.   
-48 pages, 23*30 cm   
-**Public aimed**: 6+   
-**Genre**: Picture book      
-**Keywords**: SEAMSTRESS | FASHION | DREAM | SEWING COMPETITION
+Written by **Jean-Pascal Bernard**.   
+145 pages   
+**Public aimed**: 9+   
+**Genre**: Illustrated novel      
+**Keywords**: DETECTIVE NOVEL | HUMOR | ZOO ANIMALS
 
 
-Louise Galon is a young creator who has just settled down in Paris in order to present her work to a most fashionable stylist. Yet he does not show any enthusiasm for the dress Louise has worked on so hard. Disappointed, Louise is ready to give up on her dream.
-Thankfully, since she has arrived, a young man has been watching her closely, seduced by the woman’s artwork. He picks up the dress that she got rid of without her knowing and makes her participate in a talent contest. Louise is invited the day of the fashion show and cannot believe her eyes : she discovers a model running the catwalk with her dress on…   
+What could have driven the giraffe Ramona, a wise resident of the town zoo, to eat up a lion?   
+Were the acacia leaves not enough to satisfy her?
+"It was an accident!" she stammers to the compassionate Commissioner Pillière.
+"A murder!" roar the widow of the dead beast in front of the implacable Deputy Dentu.
+What if it was ultimately a crime of passion?
+Not bad. But that does not explain everything...
+
+
+*In this short detective novel, love will not triumph any better than in Romeo and Juliet*.   
+*But, as always, it is from the genius of children that the light will shine.*   
 
 
 
-*The first picture book of Les petites moustaches.*      
 
 
-
-
-
-If you would like to receive further information, please [contact me](mailto:melanie.guillaumin.edition@gmail.com)
+If you would like to receive further information, please [contact me](mailto:melanie.guillaumin.edition@gmail.com).
 
 

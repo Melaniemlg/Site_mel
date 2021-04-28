@@ -26,4 +26,4 @@ Cultivating his differences with his mother's blessing, he is nonetheless caught
 
 
 
-If you would like to receive further information, please [contact me](mailto:melanie.guillaumin.edition@gmail.com)
+If you would like to receive further information, please [contact me](mailto:melanie.guillaumin.edition@gmail.com).
