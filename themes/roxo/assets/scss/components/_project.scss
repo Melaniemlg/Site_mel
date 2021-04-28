@@ -11,10 +11,11 @@
       }
     }
     &-content{
+      visibility: hidden;
       position: absolute;
       background: $gray;
       width: 100%;
-      padding: 45px 50px;
+      padding: 20px 20px;
       bottom: 0;
       transition: all .3s $site-ease;
       @include tablet{
@@ -60,11 +61,12 @@
       0px 30px 45px 0px rgba(0, 0, 0, 0.03),
       0px 30px 45px 0px rgba(0, 0, 0, 0.04);
       .site-project-item-content{
+        visibility: visible;
         a{
           transform: translateY(0);
           opacity: 1;
         }
-        padding-bottom: 75px;
+        padding-bottom: 35px;
       }
     }
   }

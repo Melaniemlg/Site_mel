@@ -41,6 +41,7 @@ summarylength = 25
   author = "StaticMania"
   # Google Analitycs
   googleAnalitycsID = "Your ID"
+  formspreeFormUrl  = "https://formspree.io/f/xayaqqok"
 
   # Contact Form
   [params.contactForm]
