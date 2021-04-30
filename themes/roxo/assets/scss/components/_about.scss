@@ -1,4 +1,30 @@
-.site-about{
+
+#about-descr {
+  font-size: 1.2em;
+  h3
+  {
+    // color: $secondary-color;
+    margin-bottom: 20px;
+    margin-left: 28px;
+  }
+  h4 {
+    margin-bottom: 20px;
+  }
+  p {
+    text-indent: 3%;
+    font-size: 1.2em;
+    text-align: justify;
+  }
+}
+
+#fr p, #fr {
+  color: $primary-color !important;
+}
+
+#en p, #en {
+  color: $secondary-color !important;
+}
+.site-about {
   padding: 150px 0 100px;
   // background: rgba(234, 164, 164, 0.1);
   background: rgba(173, 214, 210, 0.2);
@@ -10,13 +36,15 @@
     padding: 120px 0 100px;
   }
   &-img {
-    width: 50%;
+    width: 70%;
     border-radius: 50%;
     background-color: white;
     padding: 10px;
   }
   &-title{
     font-weight: 700;
+    text-align: center;
+    margin: auto;
     @include tablet{
       font-size: 40px;
     }
