@@ -27,13 +27,16 @@
       <div class="col-lg-3 col-md-6 mx-auto">
         <div class="site-project-item">
           <div class="site-project-item-thumb">
-            <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+            <a href="{{ .Permalink }}">
+              <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+            </a>
           </div>
+          <a href="{{ .Permalink }}">
           <div class="site-project-item-content">
             <span>{{ delimit .Params.subtitle ", " }}</span>
             <h3>{{ .Title }}</h3>
-            <a href="{{ .Permalink }}" class="read-more">view project</a>
           </div>
+          </a>
         </div>
       </div>
       {{ end }}
