@@ -1,60 +1,255 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on MG | Editor &amp; Foreign Rights Agent</title>
-    <link>http://example.org/portfolio/</link>
-    <description>Recent content in We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on MG | Editor &amp; Foreign Rights Agent</description>
+    <title>Find here our &lt;span&gt;catalogue&lt;/span&gt; on MG | Editor &amp; Foreign Rights Agent</title>
+    <link>http://mg-editor-agent.fr/portfolio/</link>
+    <description>Recent content in Find here our &lt;span&gt;catalogue&lt;/span&gt; on MG | Editor &amp; Foreign Rights Agent</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="http://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mg-editor-agent.fr/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>KIO-TAPE BRAND</title>
-      <link>http://example.org/portfolio/kio-tape-2/</link>
-      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
+      <title>ONE FOR ALL, ALL FOR ONE</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/tous-pour-une/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/kio-tape-2/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/tous-pour-une/</guid>
+      <description>Written by Pascale Moisset.
+145 pages
+Public aimed: 12+
+Genres: Novel Keywords: FRIENDSHIP | GENDER EQUALITY | RUGBY
+Margot has made a promise to herself: &amp;ldquo;To be who I am, to follow my path, whatever the cost.</description>
     </item>
     
     <item>
-      <title>USE-LESS BRAND</title>
-      <link>http://example.org/portfolio/use-less-brand/</link>
-      <pubDate>Mon, 23 Dec 2019 15:58:10 +0600</pubDate>
+      <title>WHY I ATE LION</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/pourquoi-jai-mange-du-lion/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/use-less-brand/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/pourquoi-jai-mange-du-lion/</guid>
+      <description>Written by Jean-Pascal Bernard.
+145 pages
+Public aimed: 9+
+Genre: Illustrated novel Keywords: DETECTIVE NOVEL | HUMOR | ZOO ANIMALS
+What could have driven the giraffe Ramona, a wise resident of the town zoo, to eat up a lion?</description>
     </item>
     
     <item>
-      <title>OSEN CLOCK</title>
-      <link>http://example.org/portfolio/osen-clock/</link>
-      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
+      <title>KARL LAGERFELD</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/karl-lagerfeld/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/osen-clock/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/karl-lagerfeld/</guid>
+      <description>Written by Anne Loyer, illustrated by Alice Dufay.
+121 pages
+Public aimed: 10+ | Adults
+Genres: Fiction | Q&amp;amp;A Biography | Illustrated primer
+Keywords: HIGH-FASHION DESIGNER | KARL LAGERFELD | GERMANY</description>
     </item>
     
     <item>
-      <title>SEAMLESS WATCH</title>
-      <link>http://example.org/portfolio/seamless-watch/</link>
-      <pubDate>Mon, 23 Dec 2019 15:55:44 +0600</pubDate>
+      <title>THE KIEV STAR</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/kiev/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/seamless-watch/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/kiev/</guid>
+      <description>Written by Anne Samuel.
+147 pages, 13*20 cm
+Book 5 Public aimed: 9+
+Genre: Novel Keywords: ADVENTURE | HISTORY | ART HISTORY | WW2 | TIME TRAVEL</description>
     </item>
     
     <item>
-      <title>KIO TAPE</title>
-      <link>http://example.org/portfolio/kio-tape/</link>
-      <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
+      <title>WILD SILK</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/soie-sauvage/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/kio-tape/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
-The watch has the following features:</description>
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/soie-sauvage/</guid>
+      <description>Written by Anne Loyer, illustrated by Marie-Gabrielle Berland.
+48 pages, 23*30 cm
+Public aimed: 6+
+Genre: Picture book Keywords: SEAMSTRESS | FASHION | DREAM | SEWING COMPETITION</description>
+    </item>
+    
+    <item>
+      <title>ADRIENNE BOLLAND&#39;S CRAZY ESCAPE</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/adrienne-bolland/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/adrienne-bolland/</guid>
+      <description>Written by Sophie Guillou.
+164 pages, 13*21 cm
+Public aimed: 11+
+Genre: Novel Keywords: AVIATRIX | HEROIN | ADRIENNE BOLLAND | ANDES CORDILLERA
+October 1920.</description>
+    </item>
+    
+    <item>
+      <title>BULLE BALLU</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/bulle-ballu/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/bulle-ballu/</guid>
+      <description>Written by Pascale Moisset.
+200 pages, 13*23 cm Public aimed: 10+
+Genre: Free verse novel Keywords: FRIENDSHIP | RECOMPOSED FAMILY | SOLIDARITY | COMMUNITY LIFE | SOCIAL MEDIAS</description>
+    </item>
+    
+    <item>
+      <title>THE OPAL MEDALLION</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/opale/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/opale/</guid>
+      <description>Written by Anne Samuel.
+160 pages, 13*20 cm
+Book 4 Public aimed: 9+
+Genre: Novel Keywords: ADVENTURE | HISTORY | ART HISTORY | 18th CENTURY | TIME TRAVEL</description>
+    </item>
+    
+    <item>
+      <title>CRISTÓBAL BALENCIAGA</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/cristobal-balenciaga/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/cristobal-balenciaga/</guid>
+      <description>Written by Sophie Guillou, illustrated by Alice Dufay.
+136 pages
+Public aimed: 10+ | Adults
+Genres: Fiction | Q&amp;amp;A Biography | Illustrated primer Keywords: HIGH-FASHION DESIGNER | CRISTÓBAL BALENCIAGA | SPAIN</description>
+    </item>
+    
+    <item>
+      <title>SONIA RYKIEL</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/sonia-rykiel/</link>
+      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/sonia-rykiel/</guid>
+      <description>Written by Sophie Guillou, illustrated by Alice Dufay.
+144 pages
+Public aimed: 10+ | Adults
+Genres: Fiction | Q&amp;amp;A Biography | Illustrated primer Keywords: HIGH-FASHION DESIGNER | SONIA RYKIEL | PARIS</description>
+    </item>
+    
+    <item>
+      <title>THE DAY OF JUNE</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/june/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/june/</guid>
+      <description>Written by Anne Loyer.
+141 pages, 13*21 cm Public aimed: 11+
+Genre: Novel Keywords: WAR REPORTER | HEROIN | WW2 | D-DAY | ROBERT CAPA</description>
+    </item>
+    
+    <item>
+      <title>LUCY DOES NOT GIVE UP</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/lucy-3/</link>
+      <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/lucy-3/</guid>
+      <description>Written by Sophie Guillou.
+261 pages, 13*21 cm
+&amp;ldquo;Lucy&amp;rdquo; collection, Book 3 Public aimed: 12+
+Genre: Novel Keywords: TEENAGER | FRIENDSHIP | MIDDLE SCHOOL | UNFAIRNESS</description>
+    </item>
+    
+    <item>
+      <title>ROSE BERTIN</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/rose-bertin/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/rose-bertin/</guid>
+      <description>Written by Sophie Guillou, illustrated by Alice Dufay.
+152 pages
+Public aimed: 10+ | Adults
+Genres: Fiction | Q&amp;amp;A Biography | Illustrated primer Keywords: ROYAL SEAMSTRESS | ROSE BERTIN | MARIE-ANTOINETTE | 18th CENTURY</description>
+    </item>
+    
+    <item>
+      <title>I AM CHOCOLATE!</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/chocolat/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/chocolat/</guid>
+      <description>Written by Bénédicte Rivière.
+111 pages, 13*20 cm Public aimed: 9+
+Genre: Novel Keywords: CIRCUS | CLOWN | FRIENDSHIP | IMMIGRATION | THE NAUGHTY NINETIES</description>
+    </item>
+    
+    <item>
+      <title>JEANNE LANVIN</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/jeanne-lanvin/</link>
+      <pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/jeanne-lanvin/</guid>
+      <description>Written by Sophie Guillou, illustrated by Alice Dufay.
+126 pages
+Public aimed: 10+ | Adults
+Genres: Fiction | Q&amp;amp;A Biography | Illustrated primer Keywords: HIGH-FASHION DESIGNER | JEANNE LANVIN | PARIS</description>
+    </item>
+    
+    <item>
+      <title>ISSAC&#39;S NECKLACE</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/isaac/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/isaac/</guid>
+      <description>Written by Anne Samuel.
+151 pages, 13*20 cm
+Book 2 Public aimed: 9+
+Genre: Novel Keywords: ADVENTURE | HISTORY | ART HISTORY | 20th CENTURY | TIME TRAVEL</description>
+    </item>
+    
+    <item>
+      <title>THE HEXAGONAL RING</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/bague/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/bague/</guid>
+      <description>Written by Anne Samuel.
+154 pages, 13*20 cm
+Book 3 Public aimed: 9+
+Genre: Novel Keywords: ADVENTURE | HISTORY | ART HISTORY | RENAISSANCE | TIME TRAVEL</description>
+    </item>
+    
+    <item>
+      <title>LUCY IS REBELLING</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/lucy-2/</link>
+      <pubDate>Wed, 25 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/lucy-2/</guid>
+      <description>Written by Sophie Guillou.
+255 pages, 13*21 cm
+&amp;ldquo;Lucy&amp;rdquo; collection, Book 2 Public aimed: 12+
+Genre: Novel Keywords: TEENAGER | FRIENDSHIP | MIDDLE SCHOOL | REBELLION | FIRST LOVE</description>
+    </item>
+    
+    <item>
+      <title>THE SILVER LEOPARD</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/leopard/</link>
+      <pubDate>Wed, 25 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/leopard/</guid>
+      <description>Written by Anne Samuel.
+122 pages, 13*20 cm
+Book 1 Public aimed: 9+
+Genre: Novel Keywords: ADVENTURE | HISTORY | ART HISTORY | MIDDLE AGES | TIME TRAVEL</description>
+    </item>
+    
+    <item>
+      <title>LUCY IN THE SKY</title>
+      <link>http://mg-editor-agent.fr/portfolio/lpm/lucy-1/</link>
+      <pubDate>Fri, 28 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://mg-editor-agent.fr/portfolio/lpm/lucy-1/</guid>
+      <description>Written by Sophie Guillou.
+286 pages, 13*21 cm
+&amp;ldquo;Lucy&amp;rdquo; collection, Book 1 Public aimed: 11+
+Genre: Novel Keywords: TEENAGER | FRIENDSHIP | MIDDLE SCHOOL | FIRST LOVE</description>
     </item>
     
   </channel>

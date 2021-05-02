@@ -1,54 +1,153 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
-    <loc>http://example.org/blog/design-inspiration-the-best-projects-from-december/</loc>
-    <lastmod>2019-12-24T13:45:06+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-12-24T13:45:06+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/blog/the-10-biggest-rebrands-and-logo-designs-of-2019/</loc>
-    <lastmod>2019-12-24T13:40:00+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/blog/design-inspiration-the-best-projects-from-november/</loc>
-    <lastmod>2019-12-24T13:36:06+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/blog/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</loc>
-    <lastmod>2019-12-24T13:32:54+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/blog/the-10-biggest-product-stories-of-2019/</loc>
-    <lastmod>2019-12-24T12:58:17+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/portfolio/kio-tape-2/</loc>
-    <lastmod>2019-12-23T20:56:42+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/contact/</loc>
-    <lastmod>2019-12-23T20:17:01+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/blog/</loc>
-    <lastmod>2019-12-23T20:17:01+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/portfolio/</loc>
-    <lastmod>2019-12-23T16:48:28+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/portfolio/use-less-brand/</loc>
-    <lastmod>2019-12-23T15:58:10+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/portfolio/osen-clock/</loc>
-    <lastmod>2019-12-23T15:56:43+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/portfolio/seamless-watch/</loc>
-    <lastmod>2019-12-23T15:55:44+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/portfolio/kio-tape/</loc>
-    <lastmod>2019-12-23T15:44:46+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/about/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://mg-editor-agent.fr/about/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
   </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/foreign-rights/</loc>
+    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/editorial/</loc>
+    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/foreign-rights/les-petites-moustaches/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/editorial/scrineo/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/tous-pour-une/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/pourquoi-jai-mange-du-lion/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/karl-lagerfeld/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/contact/</loc>
+    <lastmod>2019-12-23T20:17:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/kiev/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/soie-sauvage/</loc>
+    <lastmod>2019-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/adrienne-bolland/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/bulle-ballu/</loc>
+    <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/opale/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/cristobal-balenciaga/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/sonia-rykiel/</loc>
+    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/june/</loc>
+    <lastmod>2017-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/lucy-3/</loc>
+    <lastmod>2016-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/rose-bertin/</loc>
+    <lastmod>2016-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/chocolat/</loc>
+    <lastmod>2016-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/jeanne-lanvin/</loc>
+    <lastmod>2015-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/isaac/</loc>
+    <lastmod>2015-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/bague/</loc>
+    <lastmod>2015-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/lucy-2/</loc>
+    <lastmod>2014-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/leopard/</loc>
+    <lastmod>2014-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/portfolio/lpm/lucy-1/</loc>
+    <lastmod>2013-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://mg-editor-agent.fr/tags/</loc>
+  </url>
+  
 </urlset>
