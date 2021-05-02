@@ -1,36 +1,37 @@
 
-#about-descr {
-  font-size: 1.2em;
-  h3
-  {
-    // color: $secondary-color;
-    margin-bottom: 20px;
-    margin-left: 28px;
-  }
-  h4 {
-    margin-bottom: 20px;
-  }
+.site-about p {
+  text-indent: 3%;
+  text-align: justify;
+}
+
+#site-about-fr{
+  border-right: 2px #ADD6D2 dashed;
+  color: #0F4A6F;
   p {
-    text-indent: 3%;
-    font-size: 1.2em;
-    text-align: justify;
-  }
-  li {
-    font-size: 1.25em;
+    color: #0F4A6F;
   }
 }
 
-#fr p, #fr {
-  color: $primary-color !important;
+#site-about-en {
+  color: #EAA6A6;
+  p {
+    color: #EAA6A6;
+  }
 }
 
-#en p, #en {
-  color: $secondary-color !important;
+.site-about-content {
+  padding: 0 3.5%;
+}
+
+.site-about-header {
+  margin-top: 100px;
+  background: rgba(173, 214, 210, 0.2);
 }
 .site-about {
-  padding: 150px 0 100px;
+  padding: 50px;
+  // padding: 150px 0 100px;
   // background: rgba(234, 164, 164, 0.1);
-  background: rgba(173, 214, 210, 0.2);
+  background: #F9FCFD;
 
   h1 {
     font-size: 40px
@@ -39,10 +40,11 @@
     padding: 120px 0 100px;
   }
   &-img {
-    width: 70%;
-    border-radius: 50%;
-    background-color: white;
-    padding: 10px;
+    width: 100%;
+    // width: 70%;
+    // border-radius: 50%;
+    // background-color: white;
+    // padding: 10px;
   }
   &-title{
     font-weight: 700;
@@ -51,9 +53,7 @@
     @include tablet{
       font-size: 40px;
     }
-    span{
-      color: $primary-color;
-    }
+    
   }
   &-form{
     margin-top: 20px;

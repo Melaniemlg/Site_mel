@@ -1,76 +1,58 @@
 {{ define "main" }}
+<section class="site-about-header">
+  <div class="container">
+    <div class="row">
+      <img
+        class="feature-image site-about-img"
+        src="{{ .Params.feature_image | absURL }}"
+        alt="blog-feature-image">
+    </div>
+  </div>
+</section>
 <section class="site-about">
   <div class="container">
     <div class="row">
-      <div class="col-lg-6 ml-auto">
-        <div class="row">
-          <h1 class="site-about-title">
-            <img class="feature-image site-about-img" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image">
-            <br>
-          </h1>
-        </div>
-      </div>
-    </div>
-    <div class="row">
       <div class="col-lg-1">
       </div>
-      <div class="col-lg-10" id="about-descr">
+      <div class="col-lg-5 site-about-content" id="site-about-fr">
+        [FR]
         <br>
         <br>
+        <p>
+          En 2021, après avoir obtenu mon master d'édition jeunesse à l'université de Clermont-Ferrand, j'ai décidé de me lancer dans une toute nouvelle aventure : <strong>l'auto-entreprenariat</strong>.
+        </p>
+        <p>Forte de mes expériences professionnelles en tant qu'<strong>assistante éditoriale et de droits étrangers</strong> au sein de trois maisons d'édition jeunesse (Les petites bulles éditions, Les petites moustaches, Nathan jeunesse), je souhaite à présent m'illustrer en tant que freelance. Les services que je propose sont avant tout à destination des éditeurs, mais je suis aussi ouverte à la perspective de travailler en direct avec des auteurs. <strong>Je recherche des ouvrages de fiction (illustrés ou non)</strong> autour de cinq grandes thématiques :
+        </p>
+        <ul>
+          <li>art</li>
+          <li>histoire</li>
+          <li>crime/enquête</li>
+          <li>fantastique/fantasy</li>
+          <li>sujets contemporains (deuil, maladie...)</li>
+        </ul>
+        <p>Qu'il s'agisse de lire des manuscrits, les corriger, les mettre en forme ou bien les représenter à l'étranger, <strong>j'ai véritablement à cœur de faire tout mon possible pour mener à bien votre projet !</strong>
+        </p>
+      </div>
+      <div class="col-lg-5 site-about-content" id="site-about-en">
+        [EN]
         <br>
-      <h4>{{ .Params.heading | safeHTML }}</h4>
-        <div class="row" id="fr">
         <br>
-          <p>
-            En 2021, après avoir obtenu mon master d'édition jeunesse à l'université de Clermont-Ferrand, 
-            j'ai décidé de me lancer dans une toute nouvelle aventure : <strong>l'auto-entreprenariat</strong>.
-          </p>
-          <p>
-            Forte de mes expériences professionnelles en tant qu'<strong>assistante éditoriale et de droits étrangers</strong> 
-            au sein de trois maisons d'édition jeunesse (Les petites bulles éditions, Les petites moustaches, Nathan jeunesse), 
-            je souhaite à présent m'illustrer en tant que freelance. Les services que je propose sont avant tout à destination des
-            éditeurs, mais je suis aussi ouverte à la perspective de travailler en direct avec des auteurs. Je recherche des <strong>ouvrages
-            de fiction (illustrés ou non)</strong> autour de cinq grandes thématiques :
-          </p>
-          <ul>
-            <li>art</li>
-            <li>histoire</li>
-            <li>crime/enquête</li>
-            <li>fantastique/fantasy</li>
-            <li>sujets contemporains (deuil, maladie...)</li>
-          </ul><p>
-            <br>
-            Qu'il s'agisse de lire des manuscrits, les corriger, les mettre en forme ou bien les représenter à l'étranger, 
-            j'ai véritablement à cœur de faire tout mon possible pour mener à bien votre projet !   
-          </p>
-        </div>
-        <hr>
-        <div class="row" id="en">
-          <p>
-            In 2021, after I graduated from the University of Clermont-Ferrand with a Master in children's book publishing, 
-            I decided to go on a brand new adventure: <strong>self-employment</strong>.
-          </p>
-          <p>
-            Strengthen by my previous experiences as an editor and foreign rights assistant for three children's publishing houses 
-            (Les petites bulles éditions, Les petites moustaches, Nathan jeunesse), I want for now on to work as a freelance.
-            The services I propose are primarily addressed to publishers, but I am also willing to work directly with authors.
-            I am looking for <strong>fiction books (with or without illustrations)</strong> around five big topics:  
-          </p>   <ul>
-            <li>art</li>
-            <li>history</li>
-            <li>crime/investigation</li>
-            <li>fantasy</li>
-            <li>contemporary subjects (grief, sickness...)</li>
-          </ul>
-          <p>
-            <br>
-            Whether it is about reading, correcting, layout or represent manuscripts abroad, 
-            I truly desire to do as much as I can to fulfill your project!
-          </p>
-        </div>
-        <!-- <div class="site-contact-form">
-          <h4>{{ .Params.description_fr }}</h4>
-        </div> -->
+        <p>
+          In 2021, after I graduated from the University of Clermont-Ferrand with a Master in children's book publishing, I decided to go on a brand new adventure: <strong>self-employment</strong>.
+        </p>
+        <p>Strengthened by my previous experiences as an <strong>editor and foreign rights assistant</strong> for three children's publishing houses (Les petites bulles éditions, Les petites moustaches, Nathan jeunesse), I want for now on to work as a freelance. The services I propose are primarily addressed to publishers, but I am also willing to work directly with authors. <strong>I am looking for fiction books (with or without illustrations)</strong> around five big topics:
+        </p>
+        <ul>
+        <li>art</li>
+        <li>history</li>
+        <li>crime/investigation</li>
+        <li>fantasy</li>
+        <li>contemporary subjects (grief, sickness...)</li>
+        </ul>
+        <p>Whether it is about reading, correcting, layout or representing manuscripts abroad, <strong>I truly desire to do as much as I can to fulfill your project!</strong>
+        </p>
+      </div>
+      <div class="col-lg-1">
       </div>
     </div>
   </div>
