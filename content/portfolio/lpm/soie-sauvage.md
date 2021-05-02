@@ -5,7 +5,8 @@ type: portfolio
 image: "images/projects/soie-sauvage.jpg"
 subtitle: ["PICTURE BOOK 6+"]
 maison: "lpm"
-project_images: ["images/projects/soie-sauvage.jpg",   "images/projects/soie-sauvage-dp.jpg"]
+project_images: ["images/projects/soie-sauvage.jpg"]
+project_images_bottom: ["images/projects/soie-sauvage-dp.jpg"]
 ---
 
 Written by **Anne Loyer**, illustrated by **Marie-Gabrielle Berland**.   
