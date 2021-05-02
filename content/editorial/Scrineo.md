@@ -6,7 +6,7 @@ description: "Lectrice"
 ---
 
 **Lectrice**   
-Romans : fantasy, fantastique, polar   
+Romans : fantasy | fantastique | polar   
 
 Depuis novembre 2020, lecture et fiches de lecture au rythme d'un ouvrage par mois.   
 Textes jeunesse et *young adult*.   
