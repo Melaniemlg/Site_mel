@@ -8,16 +8,20 @@
           <h1>
             {{ .Title }}
           </h1>
-          <div class="site-project-single-description">
-            {{ .Content }}
-          </div>
           <div class="site-project-single-image">
             {{ range .Params.project_images }}
             <img src="{{ . | absURL }}" alt="project image">
-            <br>
             {{ end }}
           </div>
+          <div class="site-project-single-description" style="text-align: justify;">
+            {{ .Content }}
+          </div>
           {{ if .NextInSection }}
+          <div class="site-project-single-image">
+            {{ range .Params.project_images_bottom }}
+            <img src="{{ . | absURL }}" alt="project image">
+            {{ end }}
+          </div>
           <div class="site-project-single-action">
             <a href="{{.NextInSection.Permalink}}">
               <span class="link-area">

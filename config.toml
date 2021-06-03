@@ -1,4 +1,4 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://mg-editor-agent.fr/"
 languageCode  = "en-us"
 title         = "MG | Editor & Foreign Rights Agent"
 theme         = "roxo"
