@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
     {{ $maisoncode := .Params.maisoncode }}
-    {{ range first 20 (where $.Site.RegularPages "Type" "portfolio") }}
+    {{ range first 2000 (where $.Site.RegularPages "Type" "portfolio") }}
     {{ if eq .Params.maison $maisoncode }}
       <div class="col-lg-4 col-md-5 mx-auto">
         <div class="site-project-item">
