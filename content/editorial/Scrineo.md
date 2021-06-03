@@ -8,5 +8,5 @@ description: "Lectrice"
 **Lectrice**   
 Romans : fantasy | fantastique | polar   
 
-Depuis novembre 2020, lecture et fiches de lecture au rythme d'un ouvrage par mois.   
-Textes jeunesse et *young adult*.   
+Depuis novembre 2020, lecture et fiches de lecture mensuelles.   
+Textes jeunesse et *Young Adult* entre 200 000 et 450 000 signes.   

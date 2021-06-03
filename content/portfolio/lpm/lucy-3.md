@@ -9,8 +9,8 @@ project_images: ["images/projects/lucy-3.jpg"]
 ---
 
 Written by **Sophie Guillou**.   
-261 pages, 13*21 cm   
-"Lucy" collection, Book 3        
+13 × 21 cm, 261 pages, softcover.   
+**Collection**: Lucy, Book 3        
 **Public aimed**: 12+   
 **Genre**: Novel      
 **Keywords**: TEENAGER | FRIENDSHIP | MIDDLE SCHOOL | UNFAIRNESS                

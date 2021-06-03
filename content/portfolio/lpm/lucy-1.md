@@ -9,8 +9,8 @@ project_images: ["images/projects/lucy-1.jpg"]
 ---
 
 Written by **Sophie Guillou**.   
-286 pages, 13*21 cm   
-"Lucy" collection, Book 1       
+13 × 21 cm, 286 pages, softcover.   
+**Collection**: Lucy, Book 1       
 **Public aimed**: 11+   
 **Genre**: Novel      
 **Keywords**: TEENAGER | FRIENDSHIP | MIDDLE SCHOOL | FIRST LOVE                  

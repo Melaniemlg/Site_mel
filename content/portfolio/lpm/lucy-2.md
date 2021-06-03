@@ -9,8 +9,8 @@ project_images: ["images/projects/lucy-2.jpg"]
 ---
 
 Written by **Sophie Guillou**.   
-255 pages, 13*21 cm   
-"Lucy" collection, Book 2        
+13 × 21 cm, 255 pages, softcover.   
+**Collection**: Lucy, Book 2        
 **Public aimed**: 12+   
 **Genre**: Novel      
 **Keywords**: TEENAGER | FRIENDSHIP | MIDDLE SCHOOL | REBELLION | FIRST LOVE                  
