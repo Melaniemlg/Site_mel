@@ -5,7 +5,8 @@ type: portfolio
 image: "images/projects/ae-croches.jpg"
 subtitle: ["NOVEL 9+"]
 maison: "ut"
-project_images: ["images/projects/ae-croches.jpg", "images/projects/ae-croches-dp.jpg"]
+project_images: ["images/projects/ae-croches.jpg"]
+project_images_bottom: ["images/projects/ae-croches-dp.jpg"]
 ---
 
 Written by **Hélène Gloria**.    

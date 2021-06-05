@@ -5,7 +5,8 @@ type: portfolio
 image: "images/projects/bf-vent.jpg"
 subtitle: ["PICTURE BOOK 8+"]
 maison: "ut"
-project_images: ["images/projects/bf-vent.jpg", "images/projects/bf-vent-dp.jpg", "images/projects/bf-vent-dp2.jpg", "images/projects/bf-vent-dp3.jpg"]
+project_images: ["images/projects/bf-vent.jpg"]
+project_images_bottom: ["images/projects/bf-vent-dp.jpg", "images/projects/bf-vent-dp2.jpg", "images/projects/bf-vent-dp3.jpg"]
 ---
 
 Written by **Adèle Tariel** and illustrated by **Caroline Taconet**.   

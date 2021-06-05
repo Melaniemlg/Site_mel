@@ -5,7 +5,8 @@ type: portfolio
 image: "images/projects/lphdlm-rykiel.jpg"
 subtitle: ["ILLUSTRATED DOCU-FICTION 10+"]
 maison: "lpm"
-project_images: ["images/projects/lphdlm-rykiel.jpg", "images/projects/lphdlm-rykiel-dp.jpg", "images/projects/lphdlm-rykiel-dp2.jpg", "images/projects/lphdlm-rykiel-dp3.jpg"]
+project_images: ["images/projects/lphdlm-rykiel.jpg"]
+project_images_bottom: ["images/projects/lphdlm-rykiel-dp.jpg"]
 ---
 
 Written by **Sophie Guillou**, illustrated by **Alice Dufay**.   

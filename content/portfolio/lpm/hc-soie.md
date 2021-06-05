@@ -6,7 +6,7 @@ image: "images/projects/hc-soie.jpg"
 subtitle: ["PICTURE BOOK 6+"]
 maison: "lpm"
 project_images: ["images/projects/hc-soie.jpg"]
-project_images_bottom: ["images/projects/hc-soie-dp.jpg", "images/projects/hc-soie-dp2", "images/projects/hc-soie-dp3"]
+project_images_bottom: ["images/projects/hc-soie-dp.jpg", "images/projects/hc-soie-dp2.jpg", "images/projects/hc-soie-dp3.jpg"]
 ---
 
 Written by **Anne Loyer** and illustrated by **Marie-Gabrielle Berland**.   

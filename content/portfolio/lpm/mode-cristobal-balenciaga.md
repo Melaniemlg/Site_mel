@@ -5,7 +5,8 @@ type: portfolio
 image: "images/projects/lphdlm-balenciaga.jpg"
 subtitle: ["ILLUSTRATED DOCU-FICTION 10+"]
 maison: "lpm"
-project_images: ["images/projects/lphdlm-balenciaga.jpg", "images/projects/lphdlm-balenciaga-dp.jpg", "images/projects/lphdlm-balenciaga-dp2.jpg", "images/projects/lphdlm-balenciaga-dp3.jpg"]
+project_images: ["images/projects/lphdlm-balenciaga.jpg"] 
+project_images_bottom: ["images/projects/lphdlm-balenciaga-dp.jpg"]
 ---
 
 Written by **Sophie Guillou**, illustrated by **Alice Dufay**.   

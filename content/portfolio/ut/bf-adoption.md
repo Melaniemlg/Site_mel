@@ -5,7 +5,8 @@ type: portfolio
 image: "images/projects/bf-adoption.jpg"
 subtitle: ["PICTURE BOOK 6+"]
 maison: "ut"
-project_images: ["images/projects/bf-adoption.jpg", "images/projects/bf-adoption-dp.jpg", "images/projects/bf-adoption-dp2.jpg", "images/projects/bf-adoption-dp3.jpg"]
+project_images: ["images/projects/bf-adoption.jpg"]
+project_images_bottom: ["images/projects/bf-adoption-dp.jpg", "images/projects/bf-adoption-dp2.jpg", "images/projects/bf-adoption-dp3.jpg"]
 ---
 
 Written by **Sylvie Sarzaud** and illustrated by **Laura Rosano**.   

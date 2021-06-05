@@ -5,7 +5,8 @@ type: portfolio
 image: "images/projects/bf-cerise.jpg"
 subtitle: ["PICTURE BOOK 6+"]
 maison: "ut"
-project_images: ["images/projects/bf-cerise.jpg", "images/projects/bf-cerise-dp.jpg", "images/projects/bf-cerise-dp2.jpg", "images/projects/bf-cerise-dp3.jpg"]
+project_images: ["images/projects/bf-cerise.jpg"]
+project_images_bottom: ["images/projects/bf-cerise-dp.jpg", "images/projects/bf-cerise-dp2.jpg", "images/projects/bf-cerise-dp3.jpg"]
 ---
 
 Written by **France Quatromme** and illustrated by **Elsa Oriol**.   

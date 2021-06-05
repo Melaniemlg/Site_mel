@@ -5,7 +5,8 @@ type: portfolio
 image: "images/projects/lphdlm-lagerfeld.jpg"
 subtitle: ["ILLUSTRATED DOCU-FICTION 10+"]
 maison: "lpm"
-project_images: ["images/projects/lphdlm-lagerfeld.jpg", "images/projects/lphdlm-lagerfeld-dp.jpg", "images/projects/lphdlm-lagerfeld-dp2.jpg", "images/projects/lphdlm-lagerfeld-dp3.jpg"]
+project_images: ["images/projects/lphdlm-lagerfeld.jpg"]
+project_images_bottom: ["images/projects/lphdlm-lagerfeld-dp.jpg"]
 ---
 
 Written by **Anne Loyer**, illustrated by **Alice Dufay**.   

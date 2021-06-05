@@ -5,7 +5,8 @@ type: portfolio
 image: "images/projects/lphdlm-lanvin.jpg"
 subtitle: ["ILLUSTRATED DOCU-FICTION 10+"]
 maison: "lpm"
-project_images: ["images/projects/lphdlm-lanvin.jpg", "images/projects/lphdlm-lanvin-dp.jpg", "images/projects/lphdlm-lanvin-dp2.jpg", "images/projects/lphdlm-lanvin-dp3.jpg"]
+project_images: ["images/projects/lphdlm-lanvin.jpg"]
+project_images_bottom: ["images/projects/lphdlm-lanvin-dp.jpg"]
 ---
 
 Written by **Sophie Guillou**, illustrated by **Alice Dufay**.   

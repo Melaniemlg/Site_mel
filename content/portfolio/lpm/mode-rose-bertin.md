@@ -5,7 +5,8 @@ type: portfolio
 image: "images/projects/lphdlm-bertin.jpg"
 subtitle: ["ILLUSTRATED DOCU-FICTION 10+"]
 maison: "lpm"
-project_images: ["images/projects/lphdlm-bertin.jpg", "images/projects/lphdlm-bertin-dp.jpg", "images/projects/lphdlm-bertin-dp2.jpg", "images/projects/lphdlm-bertin-dp3.jpg"]
+project_images: ["images/projects/lphdlm-bertin.jpg"]
+project_images_bottom: ["images/projects/lphdlm-bertin-dp.jpg"]
 ---
 
 Written by **Sophie Guillou**, illustrated by **Alice Dufay**.   

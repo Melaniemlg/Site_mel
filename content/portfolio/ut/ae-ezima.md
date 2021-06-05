@@ -5,7 +5,8 @@ type: portfolio
 image: "images/projects/ae-ezima.jpg"
 subtitle: ["NOVEL 8+"]
 maison: "ut"
-project_images: ["images/projects/ae-ezima.jpg", "images/projects/ae-ezima-dp"]
+project_images: ["images/projects/ae-ezima.jpg"]
+project_images_bottom: ["images/projects/ae-ezima-dp.jpg"]
 ---
 
 Written by **Didier Jean** and **Zad**.
@@ -14,7 +15,7 @@ Illustrated by **Lucie Albon**.
 **Collection**: Alter Equal   
 **Public aimed**: 8+   
 **Genre**: Illustrated novel         
-**Keywords**: PREJUDICE | SCHOOL HARASSMENT | FRIENDSHIP | IMMIGRATION | INTEGRATION           
+**Keywords**: PREJUDICE | SCHOOL HARASSMENT | FRIENDSHIP | IMMIGRATION           
 
 
 Ezima is the new girl in school and her voice with singing accents does not please everyone... 
