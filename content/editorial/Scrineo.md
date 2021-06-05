@@ -1,7 +1,7 @@
 ---
 title: "SCRINEO"
 date: 2020-11-02
-image: "images/blog/scrineo.png"
+image: "images/blog/logo_sc.png"
 description: "Lectrice"
 ---
 

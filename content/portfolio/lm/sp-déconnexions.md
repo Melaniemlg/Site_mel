@@ -14,7 +14,7 @@ With the assistance of **Alain Dervaux**, psychiatrist.
 **Collection**: Psy Season   
 **Public aimed**: 12+   
 **Genre**: Docu-fiction      
-**Keywords**: SCREEN ADDICTION | SOCIAL MEDIA PREVENTION | ADOLESCENCE UNHAPPINESS           
+**Keywords**: SCREEN ADDICTION | SOCIAL MEDIA | ADOLESCENCE UNHAPPINESS           
 
  
 **Help, I’m a screen addict!**

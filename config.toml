@@ -20,7 +20,7 @@ summarylength = 25
     url     = "foreign-rights"
     weight  = 4
   [[menu.nav]]
-    name    = "Catalogue"
+    name    = "Books"
     url     = "portfolio"
     weight  = 5
   [[menu.nav]]
@@ -88,7 +88,7 @@ summarylength = 25
 
   [params.portfolio]
     enable    = true
-    title     = "NOUVEAUTÉS"
+    title     = "NOVELTIES"
     subtitle = "Foreign Rights"
 
 
@@ -106,7 +106,7 @@ summarylength = 25
           name = "Instagram"
           url  = "https://www.instagram.com/mgeditorandagent/?hl=fr"
         [[params.footer.social.link]]
-          name = "LinkedIn"
+          name = "Linkedin"
           url  = "https://www.linkedin.com/company/mg-editor-foreign-rights-agent"
       # Footer Service
       [params.footer.service]
