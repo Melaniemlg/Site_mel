@@ -22,7 +22,8 @@ With the assistance of **Alain Dervaux**, psychiatrist.
 Manon, Clément and Enzo are teenagers.
 Manon is chomping at the bit to become a game designer.
 Enzo is addicted to network and puzzle games and his social discomfort causes him to identify with his avatars.
-Clement, whose childhood dog has just died, is seeking friendship among social network users. 
+Clement, whose childhood dog has just died, is seeking friendship among social network users.   
+
 
 
 

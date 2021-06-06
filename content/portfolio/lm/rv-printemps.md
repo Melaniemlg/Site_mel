@@ -18,7 +18,7 @@ Written by **Claire Gratias**.
  
 During this month of April, Hugo, Vadim and their two friends Léa and Rémi were enjoying a quiet life when suddenly someone was murdered in their peaceful village. Someone they knew well. But very quickly, one of them becomes the main suspect...
 
-*Will their friendship withstand the real tornado that is blowing away this particular spring, troubled with lies and death?*
+*Will their friendship withstand the real tornado that is blowing away this particular spring, troubled with lies and death?*   
 
 
 

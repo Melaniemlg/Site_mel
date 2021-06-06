@@ -22,7 +22,7 @@ What if tomorrow... money had an expiration date?
 What if tomorrow... our pets wore glasses?   
 
 *After the success of his first book* What if tomorrow...*, Michel Piquemal comes back with a new set of science-fiction short stories.* 
-*Eleven powerful and corrosive stories describing the possible decline of a world very similar to ours – the world of tomorrow.*
+*Eleven powerful and corrosive stories describing the possible decline of a world very similar to ours – the world of tomorrow.*    
 
 
 

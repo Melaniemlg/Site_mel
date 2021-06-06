@@ -6,7 +6,7 @@ image: "images/projects/bf-jamais.jpg"
 subtitle: ["PICTURE BOOK 8+"]
 maison: "ut"
 project_images: ["images/projects/bf-jamais.jpg"]
-project_images_bottom: ["images/projects/bf-jamais-dp.jpg", "images/projects/bf-jamais-dp2.jpg", "images/projects/bf-jamais-dp3.jpg"]
+project_images_bottom: ["images/projects/bf-jamais-dp.jpg", "images/projects/bf-jamais-dp2.jpg"]
 ---
 
 Written by **Didier Jean** and **Zad**. 
@@ -26,6 +26,10 @@ Throughout the pages, they reveal a part of their lives.
 *The singular narration of this picture book, whose tone constantly oscillates between humour and emotion irresistibly carries us away.* 
 *The minimalist illustrations allow the reader to feel in sympathy with the characters by focusing on what they have to say.* 
 *It reminds us, that just like the characters, we all have something to share.*      
+
+
+**Short-listed for Livralire 2021**
+
 
 
 

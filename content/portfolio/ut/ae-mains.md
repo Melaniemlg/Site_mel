@@ -23,6 +23,11 @@ Irritated, Manuel starts hating her before he learns that Lisa is actually deaf.
 For her sake and because he wants to change, he learns sign language to communicate with her.      
 
 
+**Prix Renaudot des Benjamins 2001**
+**Prix Jack London 2001**
+**1er prix salon du livre d'Annemasse 2001**   
+
+
 
 
 

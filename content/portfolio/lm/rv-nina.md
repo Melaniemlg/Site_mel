@@ -23,7 +23,7 @@ But Gaspard won’t give up on that: he has to take care of the family.
 Otherwise, who will?   
 And he‘s doing a great job, a pretty great job! Until the day he accidentally makes the beautiful Nina cry. 
 So, Gaspard decides to do everything he can to bring Nina's smile back, even if it means dropping his perfect child act... 
-Or not.
+Or not.   
 
 
 

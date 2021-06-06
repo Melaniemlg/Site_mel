@@ -6,7 +6,7 @@ image: "images/projects/bf-vie.jpg"
 subtitle: ["PICTURE BOOK 6+"]
 maison: "ut"
 project_images: ["images/projects/bf-vie.jpg"]
-project_images_bottom: ["images/projects/bf-vie-dp.jpg", "images/projects/bf-vie-dp2.jpg", "images/projects/bf-vie-dp3.jpg"]
+project_images_bottom: ["images/projects/bf-vie-dp.jpg", "images/projects/bf-vie-dp2.jpg"]
 ---
 
 Written by **Sophie Helmlinger**.   

@@ -6,7 +6,7 @@ image: "images/projects/hc-soie.jpg"
 subtitle: ["PICTURE BOOK 6+"]
 maison: "lpm"
 project_images: ["images/projects/hc-soie.jpg"]
-project_images_bottom: ["images/projects/hc-soie-dp.jpg", "images/projects/hc-soie-dp2.jpg", "images/projects/hc-soie-dp3.jpg"]
+project_images_bottom: ["images/projects/hc-soie-dp.jpg", "images/projects/hc-soie-dp2.jpg"]
 ---
 
 Written by **Anne Loyer** and illustrated by **Marie-Gabrielle Berland**.   
@@ -21,7 +21,7 @@ Thankfully, since she has arrived, a young man has been watching her closely, se
 
 
 
-*The first picture book of Les petites moustaches.*      
+*The first picture book published by Les petites moustaches.*      
 
 
 

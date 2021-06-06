@@ -6,7 +6,7 @@ image: "images/projects/bf-tartines.jpg"
 subtitle: ["PICTURE BOOK 6+"]
 maison: "ut"
 project_images: ["images/projects/bf-tartines.jpg"]
-project_images_bottom: ["images/projects/bf-tartines-dp.jpg", "images/projects/bf-tartines-dp2.jpg", "images/projects/bf-tartines-dp3.jpg"]
+project_images_bottom: ["images/projects/bf-tartines-dp.jpg", "images/projects/bf-tartines-dp2.jpg"]
 ---
 
 Written by **Simon Priem** and illustrated by **Carla Cartagena**.   

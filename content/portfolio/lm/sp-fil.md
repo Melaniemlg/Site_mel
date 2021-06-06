@@ -24,6 +24,7 @@ Julien and Aude only cross paths with each other at the shrink's, but they have 
 
 
 
+
 *The Psy Season collection deals with daily interrogations teenagers face. Each book offers a double approach: first as a fiction and second as a documentary. All the titles form a whole like episodes from a TV show.*
 
 

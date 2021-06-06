@@ -23,7 +23,7 @@ One day, the little people of the forest hosts an official from Kinshasa: the go
 territory to foreign loggers. 
 The Pygmies are ordered to move... into concrete huts.
 So, with his family and a couple of researchers from an NGO, Mobou sets up a whole arsenal of defense.
-His goal: to force the tree killers to leave the forest.
+His goal: to force the tree killers to leave the forest.   
 
 
 

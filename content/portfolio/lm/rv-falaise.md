@@ -22,7 +22,7 @@ Written by **Ghislaine Roman**.
 *My dad creases the pages, lets them fall on the ground and says ‘Gee whiz!’*
 *At that moment, I don’t suspect anything."*    
 
-Fifteen-year-old Charlotte discovers that her mother was abused as a child. As her love for Pablo awakens her desire, she will have to face the wave that is hitting her family. She will discover the abjection of which adults are capable of: some knew and said nothing. Between rage and tenderness, Charlotte will have to find her own way...
+Fifteen-year-old Charlotte discovers that her mother was abused as a child. As her love for Pablo awakens her desire, she will have to face the wave that is hitting her family. She will discover the abjection of which adults are capable of: some knew and said nothing. Between rage and tenderness, Charlotte will have to find her own way...    
 
 
 
