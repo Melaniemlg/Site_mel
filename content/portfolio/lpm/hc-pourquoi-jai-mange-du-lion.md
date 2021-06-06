@@ -6,7 +6,7 @@ image: "images/projects/Pourquoi-jai-mange-du-lion.jpg"
 subtitle: ["ILLUSTRATED NOVEL 9+"]
 maison: "lpm"
 project_images: ["images/projects/Pourquoi-jai-mange-du-lion.jpg"]
-project_images_bottom: ["images/projects/hc-lion-dp2.jpg", "images/projects/hc-lion-dp.jpg"]
+project_images_bottom: ["images/projects/hc-lion-dp2.jpg"]
 ---
 
 Written by **Jean-Pascal Bernard** and illustrated by **Caroline Taconet**.   
