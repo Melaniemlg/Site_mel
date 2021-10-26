@@ -10,11 +10,12 @@ project_images_bottom: ["images/projects/bf-tartines-dp.jpg", "images/projects/b
 ---
 
 Written by **Simon Priem** and illustrated by **Carla Cartagena**.   
-22 × 32 cm, 36 pages, hardcover, full colour.  
+22 × 32 cm, 36 pages, softcover, full colour.  
 **Collection**: Family Kisses 
 **Public aimed**: 6+   
-**Genre**: Picture book      
-**Keywords**: GRIEF | SILENCE | RESILIENCE | GRANDPARENT | GRANDCHILD   
+**Genre**: Picture Book      
+**Keywords**: GRIEF | SILENCE | RESILIENCE | GRANDPARENT | GRANDCHILD
+**Rights sold**: CHINA (Simplified and Traditional Chinese)   
 
 
 When Louis visits his grandfather Albert, they share the peace and quiet of the fragrant garden 

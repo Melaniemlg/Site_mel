@@ -10,10 +10,10 @@ project_images_bottom: ["images/projects/bf-cerise-dp.jpg", "images/projects/bf-
 ---
 
 Written by **France Quatromme** and illustrated by **Elsa Oriol**.   
-22 × 32 cm, 40 pages, hardcover, full colour.  
+22 × 32 cm, 40 pages, softcover, full colour.  
 **Collection**: Family Kisses 
 **Public aimed**: 6+   
-**Genre**: Picture book      
+**Genre**: Picture Book      
 **Keywords**: ILLNESS | RECOVERY | SEASONS | CYCLE OF LIFE | CANCER          
 
 

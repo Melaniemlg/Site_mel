@@ -11,10 +11,10 @@ project_images_bottom: ["images/projects/bf-vie-dp.jpg", "images/projects/bf-vie
 
 Written by **Sophie Helmlinger**.   
 Illustrated by **Didier Jean** and **Zad**.   
-22 × 32 cm, 40 pages, hardcover, full colour.  
+22 × 32 cm, 40 pages, softcover, full colour.  
 **Collection**: Family Kisses 
 **Public aimed**: 6+   
-**Genre**: Picture book      
+**Genre**: Picture Book      
 **Keywords**: PERINATAL BEREAVEMENT | BIRTH | SIBLINGS | RESILIENCE | PREGNANCY          
 
 

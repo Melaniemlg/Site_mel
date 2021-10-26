@@ -10,7 +10,7 @@ project_images_bottom: ["images/projects/ae-croches-dp.jpg"]
 ---
 
 Written by **Hélène Gloria**.    
-Illustrated by **Julie Bouvot**
+Illustrated by **Julie Bouvot**.
 14,5 × 18,5 cm, 48 pages, softcover, full colour.      
 **Collection**: Alter Equal   
 **Public aimed**: 9+   

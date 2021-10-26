@@ -11,10 +11,10 @@ project_images_bottom: ["images/projects/bf-jamais-dp.jpg", "images/projects/bf-
 
 Written by **Didier Jean** and **Zad**. 
 Illustrated by **Régis Lejonc**.   
-22 × 32 cm, 48 pages, hardcover, full colour.  
+22 × 32 cm, 48 pages, softcover, full colour.  
 **Collection**: Family Kisses 
 **Public aimed**: 8+   
-**Genre**: Picture book      
+**Genre**: Picture Book      
 **Keywords**: CONFIDENCE | SECRET | DIVERSITY | DREAM   
 
 

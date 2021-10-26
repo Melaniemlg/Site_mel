@@ -10,10 +10,10 @@ project_images_bottom: ["images/projects/bf-adoption-dp.jpg", "images/projects/b
 ---
 
 Written by **Sylvie Sarzaud** and illustrated by **Laura Rosano**.   
-22 × 32 cm, 40 pages, hardcover, full colour.  
+22 × 32 cm, 40 pages, softcover, full colour.  
 **Collection**: Family Kisses 
 **Public aimed**: 6+   
-**Genre**: Picture book      
+**Genre**: Picture Book      
 **Keywords**: ADOPTION | BIRTH UNDER X | TOLERANCE | FAMILY | ALPHABET | PRIMER          
 
 

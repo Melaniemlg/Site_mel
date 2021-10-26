@@ -10,10 +10,10 @@ project_images_bottom: ["images/projects/bf-vent-dp.jpg", "images/projects/bf-ve
 ---
 
 Written by **Adèle Tariel** and illustrated by **Caroline Taconet**.   
-22 × 32 cm, 36 pages, hardcover, full colour.  
+22 × 32 cm, 36 pages, softcover, full colour.  
 **Collection**: Family Kisses 
 **Public aimed**: 8+   
-**Genre**: Picture book      
+**Genre**: Picture Book      
 **Keywords**: MIGRANTS | WAR | FAMILY | SOLIDARITY | RESILIENCE | SEA   
 
 

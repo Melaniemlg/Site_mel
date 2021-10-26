@@ -5,10 +5,6 @@
     <link>https://mg-editor-agent.fr/tags/</link>
     <description>Recent content in Tags on MG | Editor &amp; Foreign Rights Agent</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://mg-editor-agent.fr/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://mg-editor-agent.fr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
