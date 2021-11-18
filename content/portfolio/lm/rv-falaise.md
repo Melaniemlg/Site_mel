@@ -16,6 +16,9 @@ Written by **Ghislaine Roman**.
 **Keywords**: CHILD ABUSE | FAMILY | FIRST LOVE | ADOLESCENCE    
 
  
+***What would you do if you discovered your mother was abused as a child?***
+
+
 *"I see exactly the scene in slow-motion.*
 *My dad opens the newspaper and becomes livid.*
 *My mother widens her eyes, her way to ask him what’s happening.*
@@ -25,6 +28,9 @@ Written by **Ghislaine Roman**.
 Fifteen-year-old Charlotte discovers that her mother was abused as a child. As her love for Pablo awakens her desire, she will have to face the wave that is hitting her family. She will discover the abjection of which adults are capable of: some knew and said nothing. Between rage and tenderness, Charlotte will have to find her own way...    
 
 
+
+*Staying Alive is a collection of novels and short stories that portrays our modern world.*
+*The books within are addressing ecological, social and ethical issues towards pre-teens to young adults.*
 
 
 

@@ -15,7 +15,11 @@ Written by **Patricia Vigier**.
 **Genre**: Novel      
 **Keywords**: SYRIA | FREEDOM OF SPEECH | WOMEN'S RIGHTS | SOCIAL MEDIAS   
 
- 
+
+***Writing and filming to testify.***
+***Testify to survive.***
+
+
 *Ten years of war seen by the eyes of the young Syrian generation...*
 
 Since the first protests by exiled high school students in camps near the Turkish border,
@@ -25,6 +29,9 @@ What was originally a dream for her and her friends is now vital:
 with the only weapon they have: their smartphones.
 
 
+
+*Staying Alive is a collection of novels and short stories that portrays our modern world.*
+*The books within are addressing ecological, social and ethical issues towards pre-teens to young adults.*
 
 
 

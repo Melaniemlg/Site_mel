@@ -12,8 +12,11 @@ Written by **Michel Piquemal**.
 14 × 19 cm, 120 pages, softcover.   
 **Collection**: Staying Alive   
 **Public aimed**: 13+   
-**Genre**: Short novels         
+**Genre**: Short Novels         
 **Keywords**: SCIENCE-FICTION | SOCIETY | FUTURE | HUMOUR           
+
+
+***When dystopia allows to denounce the excesses of the present.***
 
 
 What if tomorrow... humans were to become stupid?   
@@ -25,6 +28,9 @@ What if tomorrow... our pets wore glasses?
 *Eleven powerful and corrosive stories describing the possible decline of a world very similar to ours – the world of tomorrow.*    
 
 
+
+*Staying Alive is a collection of novels and short stories that portrays our modern world.*
+*The books within are addressing ecological, social and ethical issues towards pre-teens to young adults.*
 
 
 

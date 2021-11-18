@@ -16,6 +16,9 @@ Written by **Nicolas Michel**.
 **Keywords**: HUMOUR | DIFFERENCES | SCHOOL | FANTASY | FIRST LOVE        
 
  
+***An endearing feel-good book that will bring your smile back!***
+
+
 Gaspard is a responsible boy. 
 He is even too responsible for his own parents who are… disorganized and messy, sarcastic and squabbling, 
 absurd and eccentric, surprising and extravagant, unconventional and jokers. 
@@ -26,6 +29,9 @@ So, Gaspard decides to do everything he can to bring Nina's smile back, even if 
 Or not.   
 
 
+
+*Staying Alive is a collection of novels and short stories that portrays our modern world.*
+*The books within are addressing ecological, social and ethical issues towards pre-teens to young adults.*
 
 
 

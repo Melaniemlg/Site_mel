@@ -9,12 +9,16 @@ project_images: ["images/projects/bf-vent.jpg"]
 project_images_bottom: ["images/projects/bf-vent-dp.jpg", "images/projects/bf-vent-dp2.jpg"]
 ---
 
-Written by **Adèle Tariel** and illustrated by **Caroline Taconet**.   
+Written by **Adèle Tariel**.
+Illustrated by **Caroline Taconet**.   
 22 × 32 cm, 36 pages, softcover, full colour.  
 **Collection**: Family Kisses 
 **Public aimed**: 8+   
 **Genre**: Picture Book      
 **Keywords**: MIGRANTS | WAR | FAMILY | SOLIDARITY | RESILIENCE | SEA   
+
+
+***The solidarity of a family towards the tragedy of migrants.***
 
 
 On the North Sea shore where she lives, Louise meets a sad boy. 

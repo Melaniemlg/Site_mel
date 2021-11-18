@@ -16,6 +16,9 @@ Written by **Céline Jacquot**.
 **Keywords**: DEFORESTATION | WILDLIFE PRESERVATION | ENVIRONMENT | FIGHT | AFRICA        
 
  
+***An ecological adventure novel in the heart of Congo.***
+
+
 Mobou is a ten-year-old Baka Pygmy. 
 He lives with his family in a camp located in the heart of the Congo basin. 
 Mobou loves to hunt. The mysterious forest teeming with life is his favorite playground and the Gambian rat his favorite prey.
@@ -26,6 +29,9 @@ So, with his family and a couple of researchers from an NGO, Mobou sets up a who
 His goal: to force the tree killers to leave the forest.   
 
 
+
+*Staying Alive is a collection of novels and short stories that portrays our modern world.*
+*The books within are addressing ecological, social and ethical issues towards pre-teens to young adults.*
 
 
 

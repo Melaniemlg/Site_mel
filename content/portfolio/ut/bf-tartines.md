@@ -18,6 +18,9 @@ Written by **Simon Priem** and illustrated by **Carla Cartagena**.
 **Rights sold**: CHINA (Simplified and Traditional Chinese)   
 
 
+***The story of a grandfather and grandson overcoming grief together.***
+
+
 When Louis visits his grandfather Albert, they share the peace and quiet of the fragrant garden 
 and rillettes on toast for snack. 
 But they never talk about Louis' mother – Albert's daughter – who died in an accident, nor about their grief. 

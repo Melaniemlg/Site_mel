@@ -9,12 +9,16 @@ project_images: ["images/projects/bf-cerise.jpg"]
 project_images_bottom: ["images/projects/bf-cerise-dp.jpg", "images/projects/bf-cerise-dp2.jpg"]
 ---
 
-Written by **France Quatromme** and illustrated by **Elsa Oriol**.   
+Written by **France Quatromme**.
+Illustrated by **Elsa Oriol**.   
 22 × 32 cm, 40 pages, softcover, full colour.  
 **Collection**: Family Kisses 
 **Public aimed**: 6+   
 **Genre**: Picture Book      
 **Keywords**: ILLNESS | RECOVERY | SEASONS | CYCLE OF LIFE | CANCER          
+
+
+***A story depicting a mother’s fight against illness.***
 
 
 Usually, Clotilde and her mother like to go for a walk, climb up the cherry tree, twirl in the middle of tall grass...

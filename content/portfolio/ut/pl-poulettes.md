@@ -18,6 +18,9 @@ Illustrated by **Adeline Ruel**.
 **Keywords**: BEDTIME RITUALS | FARM ANIMALS | SIGN LANGUAGE | SLEEP              
 
 
+***A board book to learn to sign farm and domestic animals with baby.***
+
+
 When bedtime comes, our two little chicks do not want to sleep in their henhouse at all.
 They try the pig's bed, the duck's bed, the rabbit's bed, the cat's bed, the dog's bed, and even the sheeps' bed!
 Finally, they discover that nothing is better than their own cosy bed.

@@ -16,11 +16,17 @@ Written by **Yaël Hassan**.
 **Keywords**: RACISM | POLICE VIOLENCE | LOCKDOWN | DISCRIMINATION        
 
  
+***A book to reject racial profiling and systemic racism.***
+
+
 Junior is a middle school student in eighth grade. Their French teacher asked them to write the documented biography of a person who tried to change the world. Consequently to George Floyd's death and the many anti-racist protests that followed around the world, the young man chooses to write about the life of Tommie Smith, an African-American athlete who distinguished himself raising a black-gloved fist at the Olympic games of 1968.
 
 *This novel, deeply embedded in a hot topic, is set in a very uncommon time frame : during a lockdown, virtual lessons, away* *from school and its obligations, the discovery of neighbours… and maybe love.*   
 
 
+
+*Staying Alive is a collection of novels and short stories that portrays our modern world.*
+*The books within are addressing ecological, social and ethical issues towards pre-teens to young adults.*
 
 
 

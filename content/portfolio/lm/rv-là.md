@@ -15,7 +15,10 @@ Written by **Fanny Vandermeersch**.
 **Genre**: Novel      
 **Keywords**: TOXIC LOVE | HOMOSEXUALITY | PSYCHOLOGICAL CONTROL | SUICIDE  
 
- 
+
+***A toxic and destructive love story between two teenagers.***
+
+
 Kim and Theo are about to jump into the void.
 They want to stay together, united even in death.
 But once the countdown is over, one jumps, the other one does not.
@@ -30,6 +33,9 @@ Until the jump.
 **Between past and present, this novel tells the story of a toxic love.**
 
 
+
+*Staying Alive is a collection of novels and short stories that portrays our modern world.*
+*The books within are addressing ecological, social and ethical issues towards pre-teens to young adults.*
 
 
 

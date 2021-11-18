@@ -16,6 +16,9 @@ Written by **Claire Mazard**.
 **Keywords**: INCEST | RAPE | SELF-RECONSTRUCTION | HOPE           
 
 
+***A powerful fiction to break the silence around incest.***
+
+
 Marie-Bénédicte, a twelve-year-old girl, receives for her birthday a computer to which she is going to reveal her terrible 
 secret: it has been five months that every Wednesday afternoon, her uncle Laurent – her mother's younger brother with whom 
 she used to spend such beautiful vacations as a child – sexually abuses her. 
@@ -24,6 +27,9 @@ cannot or will not see anything.
 But how could she break the silence?   
 
 
+
+*Staying Alive is a collection of novels and short stories that portrays our modern world.*
+*The books within are addressing ecological, social and ethical issues towards pre-teens to young adults.*
 
 
 

@@ -18,6 +18,10 @@ Illustrated by **Didier Jean** and **Zad**.
 **Keywords**: SIBLINGS RIVALRY | COMPETITION | JEALOUSY | BICKERING | FAMILY              
 
 
+***A funny and sensitive picture book to evoke the jealousy and tensions*** 
+***that may come within siblings relationships.***
+
+
 Here is a big sister who spends all her energy to be the strongest, the fastest, the nicest,
 in the hope of becoming Mum and Dad's favourite.
 But beware! Even if she is a little jealous, no one has the right to mess with her little brother.

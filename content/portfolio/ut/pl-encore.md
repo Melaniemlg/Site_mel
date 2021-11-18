@@ -18,6 +18,9 @@ Illustrated by **Didier Jean** and **Zad**.
 **Keywords**: BABIES' NEEDS | EMOTIONS | SIGN LANGUAGE | SLEEP              
 
 
+***A board book to learn to sign everyday words with baby.***
+
+
 The story unfolds throughout a typical day of Lou, a baby surrounded by caring parents.
 The word "again" is used over and over again, as the baby never tires of playing, eating or getting kisses again and again.
 

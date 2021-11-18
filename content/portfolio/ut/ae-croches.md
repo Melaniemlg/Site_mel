@@ -18,6 +18,9 @@ Illustrated by **Julie Bouvot**.
 **Keywords**: FRIENDSHIP | GENDER EQUALITY | EMPOWERMENT | TRUMPET | BOX           
 
 
+***A wonderful story about gender equality.***
+
+
 Internationally renowned trumpet player, Malik Kadar flies to Cairo, his hometown, which he has not seen since his childhood. 
 On this unexpected trip, the musician remembers the trumpet lessons he used to take in a room above a boxing gym. 
 He was ten years old at the time. 

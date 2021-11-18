@@ -18,6 +18,9 @@ Illustrated by **Didier Jean** and **Zad**.
 **Keywords**: PERINATAL BEREAVEMENT | BIRTH | SIBLINGS | RESILIENCE | PREGNANCY          
 
 
+***A tender story to explain perinatal bereavement to children.***
+
+
 Lilou likes to snuggle up to her mommy and her big round belly. 
 But for the past few days, her parents have been very sad. 
 Is it because Lilou does not want to share her toys with her soon-to-be brother?

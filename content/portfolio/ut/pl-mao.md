@@ -18,12 +18,15 @@ Illustrated by **Adeline Ruel**.
 **Keywords**: LOVERS | FIRST LOVE | FEELINGS | EMOTIONS | FAMILY              
 
 
+***A fresh and colourful picture book about being in love.***
+
+
 Mao wonders: how do you know when you are in love?
 Determined to solve this mystery, he questions all members of his family.
 "Being in love? It's like a flower growing in your heart..." says his mummy.
 "Being in love? It's like flying away, very high..." replies his daddy.
 With these answers, Mao is no further ahead...
-Who will help recognize his own feelings and discover if he is really in love?
+Who will help him recognize his own feelings and discover if he really is in love?
 
 
 

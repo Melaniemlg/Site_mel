@@ -16,6 +16,9 @@ Written by **Didier Jean** and **Zad**.
 **Keywords**: DISABILITY | SIGN LANGUAGE | DEAFNESS | FRIENDSHIP | TOLERANCE           
 
 
+***A magnificient story about friendship and acceptance.***
+
+
 When Manuel returns from holiday, he is very disappointed: his best friend Jonathan has moved to Holland. 
 In the letters they exchange, Manuel tells him that the new tenants' daughter, Lisa, is strange.
 She does not answer when you say hello and does not even turn around when you call her. 

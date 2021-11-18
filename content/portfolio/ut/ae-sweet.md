@@ -16,6 +16,9 @@ Written by **Didier Jean** and **Zad**.
 **Keywords**: HOMOSEXUALITY | LOVE | FRIENDSHIP | ARTS           
 
 
+***A caring book dealing with homosexuality.***
+
+
 Feeling good about herself, Prune is a teenager who divides her life between school, her video club friends, 
 her eco-friendly parents... and Axel. 
 Until the day she discovers that the man she thought was her boyfriend is much more attracted to boys than girls. 

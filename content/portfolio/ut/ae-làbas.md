@@ -18,6 +18,9 @@ Illustrated by **Zad**.
 **Keywords**: AFRICA | CULTURAL HERITAGE | FRIENDSHIP | SHARING | IMAGINARY JOURNEY           
 
 
+***A fun and cross-generational story.***
+
+
 Max and Robert meet at the flea market, where the old penguin-looking hairdresser buys the boy an African mask.
 A penguin who dreams of the Ivory Coast, who could believe it?
 Max, of course! Are their memories of these distand lands real or imaginary?

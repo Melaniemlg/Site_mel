@@ -16,9 +16,15 @@ Written by **Christophe Léon** and **Patricia Vigier**.
 **Keywords**: CLIMATE ISSUES | BIODIVERSITY | ECOLOGY | NEOCOLONIALISM        
 
  
+***A merciless fight against deforestation and bees disappearance.***
+
+
 Global warming is reaching new dramatic levels in this equatorial zone of Africa where the primary forest is only residual. Intensive agriculture has taken over all the available land making the most of the latest technological innovations - even pollination... But when the agribusiness magnate’s daughter buys a mysterious little yellow pot on the black market from an attractive Africanist, a grain of sand gets in the way of the multinational's workings.   
 
 
+
+*Staying Alive is a collection of novels and short stories that portrays our modern world.*
+*The books within are addressing ecological, social and ethical issues towards pre-teens to young adults.*
 
 
 

@@ -16,6 +16,9 @@ Written by **Ahmed Kalouaz**.
 **Keywords**: INJUSTICE | MIGRANTS | COURAGE | ADVENTURES | SOLIDARITY  
 
  
+***An exhilarating and optimistic novel about a teenager's revolt in the face of injustice.***
+
+
 Badri, a sixteen-year-old Georgian, is passionate about rugby.
 But if he has ended up in Lourdes, it is not for the beauty of landscape or sport, 
 but because his parents are refugees.
@@ -27,6 +30,9 @@ As they meet and spend time together, their almost brotherly friendship turns in
 Even if the schoolgirl remains focused on her goal: saving Badri from injustice.
 
 
+
+*Staying Alive is a collection of novels and short stories that portrays our modern world.*
+*The books within are addressing ecological, social and ethical issues towards pre-teens to young adults.*
 
 
 

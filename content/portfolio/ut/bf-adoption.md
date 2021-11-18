@@ -9,12 +9,16 @@ project_images: ["images/projects/bf-adoption.jpg"]
 project_images_bottom: ["images/projects/bf-adoption-dp.jpg", "images/projects/bf-adoption-dp2.jpg"]
 ---
 
-Written by **Sylvie Sarzaud** and illustrated by **Laura Rosano**.   
+Written by **Sylvie Sarzaud**.
+Illustrated by **Laura Rosano**.   
 22 × 32 cm, 40 pages, softcover, full colour.  
 **Collection**: Family Kisses 
 **Public aimed**: 6+   
 **Genre**: Picture Book      
 **Keywords**: ADOPTION | BIRTH UNDER X | TOLERANCE | FAMILY | ALPHABET | PRIMER          
+
+
+***A picture book explaining birth under X and more widely adoption.***
 
 
 One day, a classmate tells Bianca he does not want to play with her anymore, because she is sick.    

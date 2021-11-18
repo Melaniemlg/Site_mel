@@ -18,6 +18,9 @@ Illustrated by **Lucie Albon**.
 **Keywords**: PREJUDICE | SCHOOL HARASSMENT | FRIENDSHIP | IMMIGRATION           
 
 
+***The beautiful story of a friendship despite prejudices.***
+
+
 Ezima is the new girl in school and her voice with singing accents does not please everyone... 
 Faced with the jugement of others, Sybille has to make a choice: defend her new friend, or ignore her in order to not be 
 excluded from the group. 

@@ -18,6 +18,9 @@ Illustrated by **Juliette Laude**.
 **Keywords**: BEAUTY CONTEST | LITTLE GIRLS' HYPERSEXUALISATION | COMPASSION | LOLITA          
 
 
+***A picture book not only for little girls who want to be grown-ups ahead of time, but also for their parents***
+
+
 When she comes home from school, Lola spends hours in front of the mirror:
 she stares at her reflection, she makes up her face, she practices walking like a model...
 On Saturday, Auntie Christelle will drive her to the "Little Miss" contest.
