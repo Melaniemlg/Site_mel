@@ -11,7 +11,7 @@ project_images_bottom: ["images/projects/pl-poulettes-dp1.jpg", "images/projects
 
 Written by **Didier Jean** and **Zad**.    
 Illustrated by **Adeline Ruel**.
-15 × 27 cm, 18 pages, board book, full colour.      
+27 × 15 cm, 18 pages, board book, full colour.      
 **Collection**: Lil' Lardons   
 **Public aimed**: Toddlers   
 **Genre**: Board Book         
