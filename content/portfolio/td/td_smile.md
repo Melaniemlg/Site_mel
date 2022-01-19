@@ -2,10 +2,10 @@
 title: "THE GIRL WHO LOST HER SMILE"
 date: 2000-10-10
 type: portfolio
-image: "images/projects/td_smile.pdf"
+image: "images/projects/td_smile.png"
 subtitle: ["PICTURE BOOK 4+"]
 maison: "td"
-project_images: ["images/projects/td_smile.pdf"]
+project_images: ["images/projects/td_smile.png"]
 ---
 
 Written by **Karim Alrawi**.
