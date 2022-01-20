@@ -1,18 +1,18 @@
 ---
-title: "RED HOUSE"
-date: 2020-03-15
+title: "WHERE MORNING COMES"
+date: 2016-07-01
 type: portfolio
-image: "images/projects/td_mr.jpg"
-subtitle: ["MEMOIRS YA"]
+image: "images/projects/td_wmc.jpg"
+subtitle: ["NOVEL 14+"]
 maison: "td"
-project_images: ["images/projects/td_mr.jpg"]
+project_images: ["images/projects/td_wmc.jpg"]
 ---
 
-Written by **Liliane Leila Juma**.   
-14 × 21,7 cm, 130 pages, softcover.   
-**Public aimed**: YA   
-**Genre**: Memoirs      
-**Keywords**: AFRICA | CIVIL WAR | CHILDHOOD | MEMOIRS   
+Written by **Arushi Raina**.   
+13,8 × 21,6 cm, 210 pages, softcover.   
+**Public aimed**: 14+   
+**Genre**: Novel      
+**Keywords**: SOUTH AFRICA | SOWETO UPRISING | APARTHEID |    
  
  
 
