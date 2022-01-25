@@ -14,7 +14,9 @@ With the assistance of **Gilles Martinez**, psychiatrist.
 **Collection**: Psy Season   
 **Public aimed**: 12+   
 **Genre**: Docu-fiction      
-**Keywords**: HOSPITAL | ADOLESCENCE | PSYCHIATRY | FEAR | ILLNESS        
+**Keywords**: HOSPITAL | ADOLESCENCE | PSYCHIATRY | FEAR | ILLNESS      
+**Rights available**: WORLDWIDE
+  
 
  
 **Help, I need assistance!**

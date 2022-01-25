@@ -13,7 +13,8 @@ Written by **Jean-Pascal Bernard** and illustrated by **Caroline Taconet**.
 13 × 22 cm, 72 pages, softcover, full colour.   
 **Public aimed**: 9+   
 **Genre**: Illustrated novel      
-**Keywords**: DETECTIVE NOVEL | HUMOR | ZOO ANIMALS | LOVE
+**Keywords**: DETECTIVE NOVEL | HUMOR | ZOO ANIMALS | LOVE   
+**Rights available**: WORLDWIDE
 
 
 What could have driven the giraffe Ramona, a wise resident of the town zoo, to eat up a lion?   

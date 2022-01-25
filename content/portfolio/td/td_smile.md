@@ -14,6 +14,7 @@ Illustrated by **Stefan Czernecki**.
 **Public aimed**: 4+   
 **Genre**: Picture Book      
 **Keywords**: MIDDLE EAST | TALE | COLOURFUL ILLUSTRATIONS | POETIC STORY   
+**Rights available**: EUROPE
 
  
 When Jehan smiled by day, the sun shone brightly over the wondrous city of Baghdad. 

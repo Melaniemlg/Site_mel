@@ -12,7 +12,9 @@ Written by **Pascale Moisset**.
 13 × 20 cm, 200 pages, softcover, B&W pictograms.      
 **Public aimed**: 10+   
 **Genre**: Free verse novel      
-**Keywords**: FRIENDSHIP | BLENDED FAMILY | SOLIDARITY | COMMUNITY LIFE | SOCIAL MEDIA           
+**Keywords**: FRIENDSHIP | BLENDED FAMILY | SOLIDARITY | COMMUNITY LIFE | SOCIAL MEDIA    
+**Rights available**: WORLDWIDE
+       
 
 
 A move does not always mean bad news. 

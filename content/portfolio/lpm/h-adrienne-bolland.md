@@ -14,6 +14,8 @@ Written by **Sophie Guillou**.
 **Public aimed**: 11+   
 **Genre**: Novel      
 **Keywords**: AVIATRIX | HEROIN | FEMALE EMPOWERMENT | ADRIENNE BOLLAND | ANDES CORDILLERA
+**Rights available**: WORLDWIDE 
+
 
  
 With her boyish cut, Adrienne is a young woman who likes to party with her friends.   

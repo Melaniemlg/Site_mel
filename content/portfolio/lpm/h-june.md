@@ -14,6 +14,8 @@ Written by **Anne Loyer**.
 **Public aimed**: 11+   
 **Genre**: Novel      
 **Keywords**: WAR REPORTER | HEROIN | FEMALE EMPOWERMENT | WW2 | D-DAY | ROBERT CAPA   
+**Rights available**: WORLDWIDE
+
 
 
 **In 1940**, for her fourteenth birthday, June receives a

@@ -16,6 +16,7 @@ Written by **Simon Priem** and illustrated by **Carla Cartagena**.
 **Genre**: Picture Book      
 **Keywords**: GRIEF | SILENCE | RESILIENCE | GRANDPARENT | GRANDCHILD
 **Rights sold**: CHINA (Simplified and Traditional Chinese)   
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN
 
 
 ***The story of a grandfather and grandson overcoming grief together.***

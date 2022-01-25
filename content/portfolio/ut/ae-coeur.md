@@ -15,7 +15,8 @@ Illustrated by **Caroline Taconet**.
 **Collection**: Alter Equal   
 **Public aimed**: 9+   
 **Genre**: Illustrated Novel         
-**Keywords**: RUN-AWAY | ADOPTION | RESILIENCE | FORGIVENESS | FAMILY SECRET           
+**Keywords**: RUN-AWAY | ADOPTION | RESILIENCE | FORGIVENESS | FAMILY SECRET
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN           
 
 
 ***A touching story about the questions adopted children have about their origins.***

@@ -13,7 +13,9 @@ Written by **Anne Samuel**.
 **Collection**: Glows of Traverse, Book 3      
 **Public aimed**: 9+   
 **Genre**: Novel      
-**Keywords**: ADVENTURE | HISTORY | ART HISTORY | RENAISSANCE | TIME TRAVEL               
+**Keywords**: ADVENTURE | HISTORY | ART HISTORY | RENAISSANCE | TIME TRAVEL         
+**Rights available**: WORLDWIDE
+      
 
 
 Mona begins 8th grade. She is happy to see her foster father, but she never felt more offset. How could she be an ordinary girl when she is able to time travel and when four of her best friends are trapped in the past?

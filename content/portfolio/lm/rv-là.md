@@ -14,6 +14,8 @@ Written by **Fanny Vandermeersch**.
 **Public aimed**: 13+   
 **Genre**: Novel      
 **Keywords**: TOXIC LOVE | HOMOSEXUALITY | PSYCHOLOGICAL CONTROL | SUICIDE  
+**Rights available**: WORLDWIDE
+
 
 
 ***A toxic and destructive love story between two teenagers.***

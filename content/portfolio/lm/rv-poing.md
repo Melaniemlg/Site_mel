@@ -13,7 +13,9 @@ Written by **Yaël Hassan**.
 **Collection**: Staying Alive   
 **Public aimed**: 12+   
 **Genre**: Novel      
-**Keywords**: RACISM | POLICE VIOLENCE | LOCKDOWN | DISCRIMINATION        
+**Keywords**: RACISM | POLICE VIOLENCE | LOCKDOWN | DISCRIMINATION   
+**Rights available**: WORLDWIDE
+     
 
  
 ***A book to reject racial profiling and systemic racism.***

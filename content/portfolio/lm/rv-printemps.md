@@ -14,6 +14,8 @@ Written by **Claire Gratias**.
 **Public aimed**: 13+   
 **Genre**: Novel      
 **Keywords**: HARD-BOILED FICTION | TREASON | RIVALRY | SECRET | RESILIENCY    
+**Rights available**: WORLDWIDE
+
 
  
 ***A thrilling hard-boiled fiction with a spectacular outcome.**

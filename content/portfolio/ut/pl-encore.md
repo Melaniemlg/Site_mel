@@ -15,7 +15,9 @@ Illustrated by **Didier Jean** and **Zad**.
 **Collection**: Lil' Lardons   
 **Public aimed**: Toddlers   
 **Genre**: Board Book         
-**Keywords**: BABIES' NEEDS | EMOTIONS | SIGN LANGUAGE | SLEEP              
+**Keywords**: BABIES' NEEDS | EMOTIONS | SIGN LANGUAGE | SLEEP    
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN
+          
 
 
 ***A board book to learn to sign everyday words with baby.***

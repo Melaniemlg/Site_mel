@@ -15,7 +15,9 @@ Illustrated by **Didier Jean** and **Zad**.
 **Collection**: Lil' Lardons   
 **Public aimed**: Toddlers   
 **Genre**: Picture Book         
-**Keywords**: SIBLINGS RIVALRY | COMPETITION | JEALOUSY | BICKERING | FAMILY              
+**Keywords**: SIBLINGS RIVALRY | COMPETITION | JEALOUSY | BICKERING | FAMILY       
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN
+       
 
 
 ***A funny and sensitive picture book to evoke the jealousy and tensions*** 

@@ -13,7 +13,9 @@ Written by **Claire Mazard**.
 **Collection**: Staying Alive   
 **Public aimed**: 13+   
 **Genre**: Novel         
-**Keywords**: INCEST | RAPE | SELF-RECONSTRUCTION | HOPE           
+**Keywords**: INCEST | RAPE | SELF-RECONSTRUCTION | HOPE    
+**Rights available**: WORLDWIDE
+       
 
 
 ***A powerful fiction to break the silence around incest.***

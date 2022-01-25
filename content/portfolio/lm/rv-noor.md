@@ -13,7 +13,9 @@ Written by **Patricia Vigier**.
 **Collection**: Staying Alive   
 **Public aimed**: 12+   
 **Genre**: Novel      
-**Keywords**: SYRIA | FREEDOM OF SPEECH | WOMEN'S RIGHTS | SOCIAL MEDIAS   
+**Keywords**: SYRIA | FREEDOM OF SPEECH | WOMEN'S RIGHTS | SOCIAL MEDIAS  
+**Rights available**: WORLDWIDE
+ 
 
 
 ***Writing and filming to testify.***

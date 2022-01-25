@@ -15,7 +15,8 @@ Illustrated by **Laura Rosano**.
 **Collection**: Family Kisses 
 **Public aimed**: 6+   
 **Genre**: Picture Book      
-**Keywords**: ADOPTION | BIRTH UNDER X | TOLERANCE | FAMILY | ALPHABET | PRIMER          
+**Keywords**: ADOPTION | BIRTH UNDER X | TOLERANCE | FAMILY | ALPHABET | PRIMER   
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN       
 
 
 ***A picture book explaining birth under X and more widely adoption.***

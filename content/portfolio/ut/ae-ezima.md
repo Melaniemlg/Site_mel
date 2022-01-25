@@ -15,7 +15,8 @@ Illustrated by **Lucie Albon**.
 **Collection**: Alter Equal   
 **Public aimed**: 8+   
 **Genre**: Illustrated novel         
-**Keywords**: PREJUDICE | SCHOOL HARASSMENT | FRIENDSHIP | IMMIGRATION           
+**Keywords**: PREJUDICE | SCHOOL HARASSMENT | FRIENDSHIP | IMMIGRATION  
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN         
 
 
 ***The beautiful story of a friendship despite prejudices.***

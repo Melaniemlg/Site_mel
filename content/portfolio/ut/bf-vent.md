@@ -16,6 +16,8 @@ Illustrated by **Caroline Taconet**.
 **Public aimed**: 8+   
 **Genre**: Picture Book      
 **Keywords**: MIGRANTS | WAR | FAMILY | SOLIDARITY | RESILIENCE | SEA   
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN
+
 
 
 ***The solidarity of a family towards the tragedy of migrants.***
@@ -29,7 +31,7 @@ One day, carried by a better wind, Asaf and his family will fly to England.
 
 
 
-**Prix Les enfants mettent leur Grain de Sel 2020**
+**Prix Les enfants mettent leur Grain de Sel 2020.**
 
 
 

@@ -14,6 +14,8 @@ Written by **Sabine Dosière**.
 **Public aimed**: 9+   
 **Genre**: Novel      
 **Keywords**: FAMILY | FRIENDSHIP | ANIMAL RIGHTS | ADOPTION | ECOLOGY   
+**Rights available**: WORLDWIDE
+
 
  
 ***A strong and endearing novel to question our relationships with the wild world.***

@@ -14,7 +14,9 @@ Written by **Sophie Guillou**, illustrated by **Alice Dufay**.
 **Collection**: Little Stories of Fashion
 **Public aimed**: 10+ | Adults   
 **Genres**: Fiction | Q&A Biography | Illustrated primer      
-**Keywords**: HIGH-FASHION DESIGNER | CRISTÓBAL BALENCIAGA | SPAIN          
+**Keywords**: HIGH-FASHION DESIGNER | CRISTÓBAL BALENCIAGA | SPAIN  
+**Rights available**: WORLDWIDE
+        
 
 
 In July 1906, everything is quiet in the small Spanish village of Getaria. Young Cristóbal is bored.

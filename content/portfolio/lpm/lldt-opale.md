@@ -13,7 +13,9 @@ Written by **Anne Samuel**.
 **Collection**: Glows of Traverse, Book 4      
 **Public aimed**: 9+   
 **Genre**: Novel      
-**Keywords**: ADVENTURE | HISTORY | ART HISTORY | 18th CENTURY | TIME TRAVEL               
+**Keywords**: ADVENTURE | HISTORY | ART HISTORY | 18th CENTURY | TIME TRAVEL       
+**Rights available**: WORLDWIDE
+        
 
 
 Mona was not able to return home. A sudden arrival in 1789, a woman from theatre who offers her to go on stage, a trip to Paris, everything is rushing for the teenager who has had to leave her loved ones again. Will she succeed in interpreting the signs that mark out her journey through time, as she goes through the events of history with the help of great figures such as Olympe de Gouges and Abbot Grégoire?   

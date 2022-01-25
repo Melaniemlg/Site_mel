@@ -16,6 +16,7 @@ Illustrated by **Régis Lejonc**.
 **Public aimed**: 8+   
 **Genre**: Picture Book      
 **Keywords**: CONFIDENCE | SECRET | DIVERSITY | DREAM   
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN
 
 
 ***What did you never say to anyone?***

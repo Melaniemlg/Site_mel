@@ -14,7 +14,8 @@ Illustrated by **Julie Flett**.
 **Public aimed**: 4+   
 **Genre**: Picture Book      
 **Keywords**: WILD ANIMALS | ECOLOGY | ANIMALS RIGHTS | PROTECTION OF THE ENVIRONMENT   
-**Rights sold**: KOREA (Korean)
+**Rights sold**: KOREA (Korean)   
+**Rights available**: EUROPE
  
  
 Based on true events, *Dolphin SOS* recounts the story of three dolphins 

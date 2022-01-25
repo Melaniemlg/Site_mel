@@ -13,6 +13,8 @@ Written by **Martine Planells**.
 **Public aimed**: 9+   
 **Genres**: Docu-fiction      
 **Keywords**: DANCE | BALLET | NATIONAL OPERA OF PARIS | COMPETITION | WILLINGNESS   
+**Rights available**: WORLDWIDE
+
 
 
 In 1927, inspired by a performance of the Swedish Ballet, Yvette – at the age of ten – takes the entrance exam 

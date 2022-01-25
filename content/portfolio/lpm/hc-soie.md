@@ -13,7 +13,8 @@ Written by **Anne Loyer** and illustrated by **Marie-Gabrielle Berland**.
 23 × 30 cm, 48 pages, hardcover, full colour.   
 **Public aimed**: 6+   
 **Genre**: Picture book      
-**Keywords**: SEAMSTRESS | FASHION | DREAM | SEWING COMPETITION
+**Keywords**: SEAMSTRESS | FASHION | DREAM | SEWING COMPETITION   
+**Rights available**: WORLDWIDE
 
 
 Louise Galon is a young creator who has just settled down in Paris in order to present her work to a most fashionable stylist. Yet he does not show any enthusiasm for the dress Louise has worked on so hard. Disappointed, Louise is ready to give up on her dream.

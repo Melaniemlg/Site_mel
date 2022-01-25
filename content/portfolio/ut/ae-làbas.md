@@ -15,7 +15,8 @@ Illustrated by **Zad**.
 **Collection**: Alter Equal   
 **Public aimed**: 8+   
 **Genre**: Illustrated Novel         
-**Keywords**: AFRICA | CULTURAL HERITAGE | FRIENDSHIP | SHARING | IMAGINARY JOURNEY           
+**Keywords**: AFRICA | CULTURAL HERITAGE | FRIENDSHIP | SHARING | IMAGINARY JOURNEY    
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN       
 
 
 ***A fun and cross-generational story.***

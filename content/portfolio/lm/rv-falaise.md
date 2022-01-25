@@ -14,6 +14,8 @@ Written by **Ghislaine Roman**.
 **Public aimed**: 12+   
 **Genre**: Novel      
 **Keywords**: CHILD ABUSE | FAMILY | FIRST LOVE | ADOLESCENCE    
+**Rights available**: WORLDWIDE
+
 
  
 ***What would you do if you discovered your mother was abused as a child?***

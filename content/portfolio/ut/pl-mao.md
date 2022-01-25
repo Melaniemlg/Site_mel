@@ -15,7 +15,9 @@ Illustrated by **Adeline Ruel**.
 **Collection**: Lil' Lardons   
 **Public aimed**: Toddlers   
 **Genre**: Picture Book         
-**Keywords**: LOVERS | FIRST LOVE | FEELINGS | EMOTIONS | FAMILY              
+**Keywords**: LOVERS | FIRST LOVE | FEELINGS | EMOTIONS | FAMILY      
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN
+        
 
 
 ***A fresh and colourful picture book about being in love.***

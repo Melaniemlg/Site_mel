@@ -13,7 +13,9 @@ Written by **Ève-Marie Lobriaut**.
 **Collection**: Heroines   
 **Public aimed**: 11+   
 **Genre**: Novel      
-**Keywords**: ADVENTURE| HEROIN | FEMALE EMPOWERMENT | AFRICA | PYGMIES   
+**Keywords**: ADVENTURE| HEROIN | FEMALE EMPOWERMENT | AFRICA | PYGMIES  
+**Rights available**: WORLDWIDE
+ 
 
  
 July 1885. Hit by a violent fever, Edouard Darcy dies on his return from Africa.   

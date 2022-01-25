@@ -14,7 +14,9 @@ With the assistance of **Manon Beaudoin**, psychologist.
 **Collection**: Psy Season   
 **Public aimed**: 12+   
 **Genre**: Docu-fiction      
-**Keywords**: DIFFERENCES | VIOLENCE | DISABILITY | DISTRESS | LOVE        
+**Keywords**: DIFFERENCES | VIOLENCE | DISABILITY | DISTRESS | LOVE    
+**Rights available**: WORLDWIDE
+    
 
  
 **Help, we have a borderline personality disorder!**

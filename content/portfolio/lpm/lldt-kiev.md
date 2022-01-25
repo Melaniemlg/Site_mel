@@ -13,7 +13,9 @@ Written by **Anne Samuel**.
 **Collection**: Glows of Traverse, Book 5      
 **Public aimed**: 9+   
 **Genre**: Novel      
-**Keywords**: ADVENTURE | HISTORY | ART HISTORY | WW2 | TIME TRAVEL               
+**Keywords**: ADVENTURE | HISTORY | ART HISTORY | WW2 | TIME TRAVEL    
+**Rights available**: WORLDWIDE
+           
 
 
 *"They sit across each other in the train that bring them back to Paris. Maxime cannot help but look at his daughter. She is no longer the one he left for a simple phone call in a Nancy library office. Her face is emaciated and you can see the torments he did not experience on it. He would like to take her in his arms, say to her he will always be her dad and that he wished he would have been there for her. He does not dare. How to act towards what is happening to her and what is eating away at her?   

@@ -13,7 +13,9 @@ Written by **Sophie Guillou**, illustrated by **Alice Dufay**.
 13 × 23 cm, 144 pages, softcover, flaps, full coloured illustrations.   
 **Public aimed**: 10+ | Adults   
 **Genres**: Fiction | Q&A Biography | Illustrated primer      
-**Keywords**: HIGH-FASHION DESIGNER | SONIA RYKIEL | PARIS          
+**Keywords**: HIGH-FASHION DESIGNER | SONIA RYKIEL | PARIS    
+**Rights available**: WORLDWIDE
+      
 
 
 In the summer of 1942, Sonia is passionately enjoying the countryside. 

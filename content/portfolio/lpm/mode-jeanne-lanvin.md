@@ -14,7 +14,9 @@ Written by **Sophie Guillou**, illustrated by **Alice Dufay**.
 **Collection**: Little Stories of Fashion  
 **Public aimed**: 10+ | Adults   
 **Genres**: Fiction | Q&A Biography | Illustrated primer      
-**Keywords**: HIGH-FASHION DESIGNER | JEANNE LANVIN | PARIS      
+**Keywords**: HIGH-FASHION DESIGNER | JEANNE LANVIN | PARIS     
+**Rights available**: WORLDWIDE
+ 
 
 
 At the age of ten, Marguerite has everything to be happy, but she is tired of her mother dressing her like a doll. 

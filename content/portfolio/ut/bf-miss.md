@@ -15,7 +15,8 @@ Illustrated by **Juliette Laude**.
 **Collection**: Family Kisses 
 **Public aimed**: 7+   
 **Genre**: Picture Book      
-**Keywords**: BEAUTY CONTEST | LITTLE GIRLS' HYPERSEXUALISATION | COMPASSION | LOLITA          
+**Keywords**: BEAUTY CONTEST | LITTLE GIRLS' HYPERSEXUALISATION | COMPASSION | LOLITA    
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN      
 
 
 ***A picture book not only for little girls who want to be grown-ups ahead of time, but also for their parents***

@@ -15,6 +15,8 @@ Written by **Anne Loyer**, illustrated by **Alice Dufay**.
 **Public aimed**: 10+ | Adults   
 **Genres**: Fiction | Q&A Biography | Illustrated primer   
 **Keywords**: HIGH-FASHION DESIGNER | KARL LAGERFELD | GERMANY   
+**Rights available**: WORLDWIDE
+
 
 
 While the Second World War rages, the young Karl Lagerfeld grows up sheltered from its fury.   

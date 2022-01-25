@@ -13,6 +13,8 @@ Written by **Bénédicte Rivière**.
 **Public aimed**: 9+   
 **Genre**: Novel      
 **Keywords**: CIRCUS | CLOWN | FRIENDSHIP | IMMIGRATION | THE NAUGHTY NINETIES      
+**Rights available**: WORLDWIDE
+
 
 
 My name is Rafael and I was born in Cuba. I am the son of runaway slaves. When I was a child, I lived in Havana, at Old Jaba’s house.

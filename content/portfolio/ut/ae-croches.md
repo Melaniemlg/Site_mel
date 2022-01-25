@@ -15,7 +15,8 @@ Illustrated by **Julie Bouvot**.
 **Collection**: Alter Equal   
 **Public aimed**: 9+   
 **Genre**: Illustrated novel         
-**Keywords**: FRIENDSHIP | GENDER EQUALITY | EMPOWERMENT | TRUMPET | BOX           
+**Keywords**: FRIENDSHIP | GENDER EQUALITY | EMPOWERMENT | TRUMPET | BOX 
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN          
 
 
 ***A wonderful story about gender equality.***

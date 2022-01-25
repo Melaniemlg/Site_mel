@@ -15,7 +15,9 @@ Illustrated by **Adeline Ruel**.
 **Collection**: Lil' Lardons   
 **Public aimed**: Toddlers   
 **Genre**: Board Book         
-**Keywords**: BEDTIME RITUALS | FARM ANIMALS | SIGN LANGUAGE | SLEEP              
+**Keywords**: BEDTIME RITUALS | FARM ANIMALS | SIGN LANGUAGE | SLEEP   
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN
+           
 
 
 ***A board book to learn to sign farm and domestic animals with baby.***

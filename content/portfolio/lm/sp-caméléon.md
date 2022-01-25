@@ -14,7 +14,9 @@ With the assistance of **Gilles Martinez**, psychiatrist.
 **Collection**: Psy Season   
 **Public aimed**: 12+   
 **Genre**: Docu-fiction      
-**Keywords**: DIFFERENCES | AUTISM | ASPERGER'S SYNDROME | HARASSMENT | DISABILITY        
+**Keywords**: DIFFERENCES | AUTISM | ASPERGER'S SYNDROME | HARASSMENT | DISABILITY   
+**Rights available**: WORLDWIDE
+     
 
  
 **Here come the Aspie girls!**

@@ -15,7 +15,9 @@ Illustrated by **Didier Jean** and **Zad**.
 **Collection**: Family Kisses 
 **Public aimed**: 6+   
 **Genre**: Picture Book      
-**Keywords**: PERINATAL BEREAVEMENT | BIRTH | SIBLINGS | RESILIENCE | PREGNANCY          
+**Keywords**: PERINATAL BEREAVEMENT | BIRTH | SIBLINGS | RESILIENCE | PREGNANCY   
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN
+       
 
 
 ***A tender story to explain perinatal bereavement to children.***

@@ -14,7 +14,9 @@ With the assistance of **Angélique Excoffier**, psychologist.
 **Collection**: Psy Season   
 **Public aimed**: 12+   
 **Genre**: Docu-fiction      
-**Keywords**: DIFFERENCES | CHILDHOOD | DISABILITY | DISTRESS        
+**Keywords**: DIFFERENCES | CHILDHOOD | DISABILITY | DISTRESS      
+**Rights available**: WORLDWIDE
+  
 
  
 **Help, I’m bipolar!**

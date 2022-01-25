@@ -13,7 +13,9 @@ Written by **Anne Samuel**.
 **Collection**: Glows of Traverse, Book 2         
 **Public aimed**: 9+   
 **Genre**: Novel      
-**Keywords**: ADVENTURE | HISTORY | ART HISTORY | 20th CENTURY | TIME TRAVEL               
+**Keywords**: ADVENTURE | HISTORY | ART HISTORY | 20th CENTURY | TIME TRAVEL   
+**Rights available**: WORLDWIDE 
+            
 
 
 When Mona returns from the Middle Ages, she finds Max, the man who raised her, and her life as a middle grade student. 

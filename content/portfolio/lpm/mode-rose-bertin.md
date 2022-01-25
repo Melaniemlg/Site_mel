@@ -14,7 +14,9 @@ Written by **Sophie Guillou**, illustrated by **Alice Dufay**.
 **Collection**: Little Stories of Fashion   
 **Public aimed**: 10+ | Adults   
 **Genres**: Fiction | Q&A Biography | Illustrated primer      
-**Keywords**: ROYAL SEAMSTRESS | ROSE BERTIN | MARIE-ANTOINETTE | 18th CENTURY       
+**Keywords**: ROYAL SEAMSTRESS | ROSE BERTIN | MARIE-ANTOINETTE | 18th CENTURY      
+**Rights available**: WORLDWIDE
+ 
 
 
 Thanks to her talent, Rose has established herself as the fashion dealer that everyone at the court of Versailles wants.   But a seductive stranger throws her life into turmoil...

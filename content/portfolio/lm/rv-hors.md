@@ -14,6 +14,8 @@ Written by **Ahmed Kalouaz**.
 **Public aimed**: 12+   
 **Genre**: Novel      
 **Keywords**: INJUSTICE | MIGRANTS | COURAGE | ADVENTURES | SOLIDARITY  
+**Rights available**: WORLDWIDE
+
 
  
 ***An exhilarating and optimistic novel about a teenager's revolt in the face of injustice.***

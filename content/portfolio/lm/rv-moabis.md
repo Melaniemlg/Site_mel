@@ -13,7 +13,9 @@ Written by **Céline Jacquot**.
 **Collection**: Staying Alive   
 **Public aimed**: 10+   
 **Genre**: Novel      
-**Keywords**: DEFORESTATION | WILDLIFE PRESERVATION | ENVIRONMENT | FIGHT | AFRICA        
+**Keywords**: DEFORESTATION | WILDLIFE PRESERVATION | ENVIRONMENT | FIGHT | AFRICA     
+**Rights available**: WORLDWIDE
+   
 
  
 ***An ecological adventure novel in the heart of Congo.***

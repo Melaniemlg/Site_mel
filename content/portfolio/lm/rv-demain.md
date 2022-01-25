@@ -13,7 +13,9 @@ Written by **Michel Piquemal**.
 **Collection**: Staying Alive   
 **Public aimed**: 13+   
 **Genre**: Short Novels         
-**Keywords**: SCIENCE-FICTION | SOCIETY | FUTURE | HUMOUR           
+**Keywords**: SCIENCE-FICTION | SOCIETY | FUTURE | HUMOUR   
+**Rights available**: WORLDWIDE
+        
 
 
 ***When dystopia allows to denounce the excesses of the present.***

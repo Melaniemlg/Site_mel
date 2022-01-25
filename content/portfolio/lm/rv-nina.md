@@ -13,7 +13,9 @@ Written by **Nicolas Michel**.
 **Collection**: Staying Alive   
 **Public aimed**: 9+   
 **Genre**: Novel      
-**Keywords**: HUMOUR | DIFFERENCES | SCHOOL | FANTASY | FIRST LOVE        
+**Keywords**: HUMOUR | DIFFERENCES | SCHOOL | FANTASY | FIRST LOVE      
+**Rights available**: WORLDWIDE
+  
 
  
 ***An endearing feel-good book that will bring your smile back!***

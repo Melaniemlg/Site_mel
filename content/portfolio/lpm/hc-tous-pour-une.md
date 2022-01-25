@@ -13,6 +13,8 @@ Written by **Pascale Moisset**.
 **Public aimed**: 12+   
 **Genres**: Novel      
 **Keywords**: FRIENDSHIP | GENDER EQUALITY | RUGBY   
+**Rights available**: WORLDWIDE
+
 
 
 Margot has made a promise to herself: "To be who I am, to follow my path, whatever the cost."   

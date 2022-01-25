@@ -13,7 +13,10 @@ Written by **Sophie Guillou**.
 **Collection**: Lucy, Book 2        
 **Public aimed**: 12+   
 **Genre**: Novel      
-**Keywords**: TEENAGER | FRIENDSHIP | MIDDLE SCHOOL | REBELLION | FIRST LOVE                  
+**Keywords**: TEENAGER | FRIENDSHIP | MIDDLE SCHOOL | REBELLION | FIRST LOVE     
+**Rights available**: WORLDWIDE
+
+
 
 Ninth grade starts badly for Lucy: her two best friends are not in her class and her boyfriend is becoming distant. 
 So, she starts hanging out with Flow, a venomous charming repeating student who encourages her in crazy escapes. 

@@ -13,7 +13,9 @@ Written by **Anne Samuel**.
 **Collection**: Glows of Traverse, Book 1      
 **Public aimed**: 9+   
 **Genre**: Novel      
-**Keywords**: ADVENTURE | HISTORY | ART HISTORY | MIDDLE AGES | TIME TRAVEL               
+**Keywords**: ADVENTURE | HISTORY | ART HISTORY | MIDDLE AGES | TIME TRAVEL      
+**Rights available**: WORLDWIDE
+         
 
 
 Mona doesn’t know where she comes from and lives with her foster father. 

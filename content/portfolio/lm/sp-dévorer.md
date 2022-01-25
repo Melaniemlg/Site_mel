@@ -14,7 +14,9 @@ With the assistance of **Alain Dervaux**, psychiatrist.
 **Collection**: Psy Season   
 **Public aimed**: 12+   
 **Genre**: Docu-fiction      
-**Keywords**: EATING DISORDERS | ADOLESCENCE | PSYCHIATRY | BULIMIA | ILLNESS        
+**Keywords**: EATING DISORDERS | ADOLESCENCE | PSYCHIATRY | BULIMIA | ILLNESS   
+**Rights available**: WORLDWIDE
+     
 
  
 **Help, I'm bulimic!**

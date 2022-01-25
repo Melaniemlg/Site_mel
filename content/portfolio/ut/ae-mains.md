@@ -13,7 +13,8 @@ Written by **Didier Jean** and **Zad**.
 **Collection**: Alter Equal   
 **Public aimed**: 10+   
 **Genre**: Novel         
-**Keywords**: DISABILITY | SIGN LANGUAGE | DEAFNESS | FRIENDSHIP | TOLERANCE           
+**Keywords**: DISABILITY | SIGN LANGUAGE | DEAFNESS | FRIENDSHIP | TOLERANCE     
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN      
 
 
 ***A magnificient story about friendship and acceptance.***

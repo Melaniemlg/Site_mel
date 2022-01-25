@@ -13,7 +13,10 @@ Written by **Sophie Guillou**.
 **Collection**: Lucy, Book 3        
 **Public aimed**: 12+   
 **Genre**: Novel      
-**Keywords**: TEENAGER | FRIENDSHIP | MIDDLE SCHOOL | UNFAIRNESS                
+**Keywords**: TEENAGER | FRIENDSHIP | MIDDLE SCHOOL | UNFAIRNESS    
+**Rights available**: WORLDWIDE
+
+
 
 After the turbulence of the beginning of ninth grade, Lucy has decided to calm down. 
 The last months of middle school seem really boring. Only the handsome Evann is keeping her interested. 

@@ -13,7 +13,8 @@ Written by **Didier Jean** and **Zad**.
 **Collection**: Alter Equal   
 **Public aimed**: 13+   
 **Genre**: Novel         
-**Keywords**: HOMOSEXUALITY | LOVE | FRIENDSHIP | ARTS           
+**Keywords**: HOMOSEXUALITY | LOVE | FRIENDSHIP | ARTS   
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN        
 
 
 ***A caring book dealing with homosexuality.***

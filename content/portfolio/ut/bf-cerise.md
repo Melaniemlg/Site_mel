@@ -15,7 +15,8 @@ Illustrated by **Elsa Oriol**.
 **Collection**: Family Kisses 
 **Public aimed**: 6+   
 **Genre**: Picture Book      
-**Keywords**: ILLNESS | RECOVERY | SEASONS | CYCLE OF LIFE | CANCER          
+**Keywords**: ILLNESS | RECOVERY | SEASONS | CYCLE OF LIFE | CANCER    
+**Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN      
 
 
 ***A story depicting a mother’s fight against illness.***

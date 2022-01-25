@@ -13,7 +13,9 @@ Written by **Christophe Léon** and **Patricia Vigier**.
 **Collection**: Staying Alive   
 **Public aimed**: 12+   
 **Genre**: Novel      
-**Keywords**: CLIMATE ISSUES | BIODIVERSITY | ECOLOGY | NEOCOLONIALISM        
+**Keywords**: CLIMATE ISSUES | BIODIVERSITY | ECOLOGY | NEOCOLONIALISM     
+**Rights available**: WORLDWIDE
+   
 
  
 ***A merciless fight against deforestation and bees disappearance.***
