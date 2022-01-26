@@ -13,7 +13,7 @@ Illustrated by **Stefan Czernecki**.
 26,5 × 21 cm, 32 pages, hardcover.   
 **Public aimed**: 4+   
 **Genre**: Picture Book      
-**Keywords**: MIDDLE EAST | TALE | COLOURFUL ILLUSTRATIONS | POETIC STORY   
+**Keywords**: MIDDLE EAST | TALE | COLOURFUL ILLUSTRATIONS | POETIC STORY    
 **Rights available**: EUROPE
 
  

@@ -12,7 +12,7 @@ Written by **Liliane Leila Juma**.
 14 × 21,7 cm, c. 130 pages, softcover.   
 **Public aimed**: YA   
 **Genre**: Memoirs      
-**Keywords**: AFRICA | CIVIL WAR | CHILDHOOD | MEMOIRS 
+**Keywords**: AFRICA | CIVIL WAR | CHILDHOOD | MEMOIRS    
 **Rights available**: EUROPE  
  
  

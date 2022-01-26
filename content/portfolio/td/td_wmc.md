@@ -13,8 +13,8 @@ Written by **Arushi Raina**.
 **Public aimed**: 14+   
 **Genre**: Novel      
 **Keywords**: SOUTH AFRICA | SOWETO UPRISING | APARTHEID | RESILIENCE 
-**Rights sold**: SOUTH AFRICA, INDIA 
-**Rights available**: EUROPE 
+**Rights sold**: SOUTH AFRICA, INDIA    
+**Rights available**: EUROPE    
  
  
 
@@ -35,8 +35,8 @@ with an unforgettable face from a black township on the edge of revolt—Soweto.
 
 
 
-**Finalist for the Geoffrey Bilson Award for Historical Fiction for Young People 2017.**
-**Winner of the Children's Africana Book Award 2018.**
+**Finalist for the Geoffrey Bilson Award for Historical Fiction for Young People 2017.**   
+**Winner of the Children's Africana Book Award 2018.**   
 
 
 

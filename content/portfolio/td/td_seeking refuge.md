@@ -12,7 +12,7 @@ Written by **Irene N. Watts** and illustrated by **Kathryn E. Shoemaker**.
 19,7 × 25,5 cm, 136 pages, B&W illustrations, softcover.   
 **Public aimed**: 7+   
 **Genre**: Graphic Novel      
-**Keywords**: WW2 | JEW REFUGEES | HISTORY | CHILDREN 
+**Keywords**: WW2 | JEW REFUGEES | HISTORY | CHILDREN    
 **Rights available**: EUROPE 
  
  

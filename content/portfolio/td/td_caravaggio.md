@@ -12,7 +12,7 @@ Written by **Mark David Smith**.
 14 × 21 cm, 152 pages, softcover.   
 **Public aimed**: 12+   
 **Genre**: Novel      
-**Keywords**: ITALY | RENAISSANCE ERA | MYSTERY | CARAVAGGIO 
+**Keywords**: ITALY | RENAISSANCE ERA | MYSTERY | CARAVAGGIO    
 **Rights available**: EUROPE 
  
  

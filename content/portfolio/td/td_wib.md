@@ -12,7 +12,7 @@ Written by **Tara White**.
 14 × 21 cm, 112 pages, softcover.   
 **Public aimed**: YA   
 **Genre**: Novel      
-**Keywords**: MOHAWK | SELF-DISCOVERY | FAMILY | THE OKA CRISIS 
+**Keywords**: MOHAWK | SELF-DISCOVERY | FAMILY | THE OKA CRISIS    
 **Rights available**: EUROPE 
  
  
