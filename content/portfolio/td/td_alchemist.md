@@ -20,7 +20,7 @@ Written by **Simon Rose**.
 On a school trip to the museum, Matthew has an eerie meeting with Peter Glimmer,
 who was imprisoned in hiw own portrait by his uncle, the villainous alchemist, Nicolaas van der Leyden. 
 Peter Glimmer untrust Matthew with recovering from the past the one thing that can save the world.
-Encountering magic, mayhem and murder, Matthew ends up in a desperate race back through time in order to save the future.   
+Encountering magic, mayhem and murder, Matthew ends up in a desperate race back through time in order to save the future.    
 
 
 
