@@ -96,7 +96,7 @@ summarylength = 25
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "MG Editor & Foreign Rights Agent"
-      address = "74 avenue de Tivoli <br> 33110 Le Bouscat"
+      address = "137 avenue Charles de Gaulle <br> 33200 Bordeaux"
       phone   = "+ 33 6 23 36 11 02"
       email   = "melanie.guillaumin.edition@gmail.com"
       # Footer Social Media
