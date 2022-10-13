@@ -6,7 +6,7 @@ image: "images/projects/lphdlm-schiap.jpg"
 subtitle: ["ILLUSTRATED DOCU-FICTION 10+"]
 maison: "lpm"
 project_images: ["images/projects/lphdlm-schiap.jpg"]
-project_images_bottom: ["images/projects/lphdlm-schiap-dp1.jpg";"images/projects/lphdlm-schiap-dp2"]
+project_images_bottom: ["images/projects/lphdlm-schiap-dp1.jpg", "images/projects/lphdlm-schiap-dp2"]
 ---
 
 Written by **Ève-Marie Lobriaut**, illustrated by **Madame Dessine**.   
