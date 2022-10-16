@@ -3,7 +3,7 @@ title: "SHIRO & THE KAMISHIBAI"
 date: 2017-02-01
 type: portfolio
 image: "images/projects/uv-shiro.jpg"
-subtitle: ["PICTURE BOOK"]
+subtitle: ["PICTURE BOOK 6+"]
 maison: "ut"
 project_images: ["images/projects/uv-shiro.jpg"]
 project_images_bottom: ["images/projects/uv-shiro-dp1.jpg", "images/projects/uv-shiro-dp2.jpg", "images/projects/uv-shiro-dp3.jpg"]
@@ -11,7 +11,7 @@ project_images_bottom: ["images/projects/uv-shiro-dp1.jpg", "images/projects/uv-
 
 Written by **France Quatromme**.    
 Illustrated by **Manuela** and **Zad**.
-22 × 32 cm, 24 pages, picture book, full colour.      
+22 × 32 cm, 24 pages, hardcover, full colour.      
 **Collection**: Once Upon A Voice   
 **Public aimed**: 6+   
 **Genre**: Picture Book         

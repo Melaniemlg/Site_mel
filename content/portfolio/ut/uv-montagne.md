@@ -3,36 +3,33 @@ title: "WHAT IS BEHIND THE MOUNTAIN?"
 date: 2022-02-01
 type: portfolio
 image: "images/projects/uv-montagne.jpg"
-subtitle: ["PICTURE BOOK"]
+subtitle: ["PICTURE BOOK 6+"]
 maison: "ut"
 project_images: ["images/projects/uv-montagne.jpg"]
 project_images_bottom: ["images/projects/uv-montagne-dp1.jpg", "images/projects/uv-montagne-dp2.jpg"]
 ---
 
-Written by **France Quatromme**.    
-Illustrated by **Manuela** and **Zad**.
-22 × 32 cm, 24 pages, picture book, full colour.      
+Written by **Ludovic Souliman**.    
+Illustrated by **Zad**.
+22 × 32 cm, 40 pages, hardcover, full colour.      
 **Collection**: Once Upon A Voice   
 **Public aimed**: 6+   
 **Genre**: Picture Book         
-**Keywords**: KAMISHIBAI | STORYTELLING | STORIES | TRANSMISSION | FAITHFUL       
+**Keywords**: FEAR | COURAGE | CURIOSITY | MONSTERS | PHOBIA | LEARNING       
 **Rights available**: WORLDWIDE EXCEPT CHINA AND TAIWAN
            
 
 
-***The endearing story of a kamishibai storyteller and a child.***
+***When facing our fears makes us stronger.***
 
 
-In front of Shiro’s house lives a man who goes out everyday barefoot and with his bicycle. 
-He is a kamishibai storyteller. From that moment, Shiro begins to listen faithfully to the man’s stories, 
-without knowing that this encounter will change the course of his life.
-As an adult, Shiro works and saves every penny to buy a nice suit, but he manages to listen to the old man when he can.    
-
-But one day, the storyteller does not show up....
-
-
-
-**Short-listed for Lire et faire lire 2018**          
+Marilou is afraid of the night, of the dark, of everything!
+Although, one morning, a question pops into her head about the mountain she sees through her window. 
+The curious child asks her family:      
+*“What is behind the mountain?”*      
+But this question terrifies the adults who refuse to answer it. 
+Her curiosity stronger than her apprehension, she takes her courage in both hands to discover the truth:   
+behind the mountain hides a terrifying beast… *her own fear*.        
 
 
 
