@@ -24,7 +24,7 @@ Illustrated by **Adeline Ruel**.
 
 
 Mao wonders: how do you know when you are in love?
-Determined to solve this mystery, he questions all members of his family.
+Determined to solve this mystery, he questions all the members of his family.
 "Being in love? It's like a flower growing in your heart..." says his mummy.
 "Being in love? It's like flying away, very high..." replies his daddy.
 With these answers, Mao is no further ahead...

@@ -17,6 +17,10 @@ Written by **Anne Loyer** and illustrated by **Marie-Gabrielle Berland**.
 **Rights available**: WORLDWIDE
 
 
+
+***An endearing story depicting the importance of believing in your dreams.***
+
+
 Louise Galon is a young creator who has just settled down in Paris in order to present her work to a most fashionable stylist. Yet he does not show any enthusiasm for the dress Louise has worked on so hard. Disappointed, Louise is ready to give up on her dream.
 Thankfully, since she has arrived, a young man has been watching her closely, seduced by the woman’s artwork. He picks up the dress that she got rid of without her knowing and makes her participate in a talent contest. Louise is invited the day of the fashion show and cannot believe her eyes : she discovers a model running the catwalk with her dress on…   
 

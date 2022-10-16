@@ -2,10 +2,10 @@
 title: "SEEKING REFUGE"
 date: 2017-03-01
 type: portfolio
-image: "images/projects/td_seeking refuge.jpg"
+image: "images/projects/td-seeking refuge.jpg"
 subtitle: ["GRAPHIC NOVEL 7+"]
 maison: "td"
-project_images: ["images/projects/td_seeking refuge.jpg"]
+project_images: ["images/projects/td-seeking refuge.jpg"]
 ---
 
 Written by **Irene N. Watts** and illustrated by **Kathryn E. Shoemaker**.   
