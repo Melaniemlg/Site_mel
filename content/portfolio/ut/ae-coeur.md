@@ -22,10 +22,10 @@ Illustrated by **Caroline Taconet**.
 ***A touching story about the questions adopted children have about their origins.***
 
 
-Milo has run-away. 
+**Milo** has run-away. 
 He left behind a truth he does not want to admit: he was adopted.
 In his heart, the storm is raging. A question keeps coming and going and tap his mind:
-"Did they love me, those parents who abandoned me?".
+*"Did they love me, those parents who abandoned me?".*
 In his flight forward, an unexpected encounter will help him understand the meaning of his own existence...
 and slowly find the path to resilience.     
 

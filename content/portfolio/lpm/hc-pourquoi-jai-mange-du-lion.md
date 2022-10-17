@@ -17,10 +17,14 @@ Written by **Jean-Pascal Bernard** and illustrated by **Caroline Taconet**.
 **Rights available**: WORLDWIDE
 
 
-What could have driven the giraffe Ramona, a wise resident of the town zoo, to eat up a lion?   
+
+***A truly hilarious detective novel for children.***
+
+
+What could have driven the giraffe **Ramona**, a wise resident of the town zoo, to eat up a lion?   
 Were the acacia leaves not enough to satisfy her?
-"It was an accident!" she stammers to the compassionate Commissioner Pillière.
-"A murder!" roar the widow of the dead beast in front of the implacable Deputy Dentu.
+"It was an accident!" she stammers to the compassionate **Commissioner Pillière**.
+"A murder!" roar the widow of the dead beast in front of the implacable **Deputy Dentu**.
 What if it was ultimately a crime of passion?
 Not bad. But that does not explain everything...
 

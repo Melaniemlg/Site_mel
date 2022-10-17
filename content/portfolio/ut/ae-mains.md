@@ -3,7 +3,7 @@ title: "TWO HANDS TO TELL"
 date: 2019-09-01
 type: portfolio
 image: "images/projects/ae-mains.jpg"
-subtitle: ["NOVEL 10+"]
+subtitle: ["NOVEL 9+"]
 maison: "ut"
 project_images: ["images/projects/ae-mains.jpg"]
 ---
