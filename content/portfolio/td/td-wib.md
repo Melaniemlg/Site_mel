@@ -2,10 +2,10 @@
 title: "WHERE I BELONG"
 date: 2015-05-01
 type: portfolio
-image: "images/projects/td-wib.jpg"
+image: "images/projects/td_wib.jpg"
 subtitle: ["NOVEL YA"]
 maison: "td"
-project_images: ["images/projects/td-wib.jpg"]
+project_images: ["images/projects/td_wib.jpg"]
 ---
 
 Written by **Tara White**.   

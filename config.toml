@@ -104,7 +104,7 @@ summarylength = 25
         title   = "Actualités"
         [[params.footer.social.link]]
           name = "Instagram"
-          url  = "https://www.instagram.com/mgeditorandagent/?hl=fr"
+          url  = "https://www.instagram.com/mg_editor_agent"
         [[params.footer.social.link]]
           name = "Linkedin"
           url  = "https://www.linkedin.com/company/mg-editor-foreign-rights-agent"
