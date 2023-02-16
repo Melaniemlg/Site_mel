@@ -2,10 +2,10 @@
 title: "THE CHERRY SEASON"
 date: 2018-09-01
 type: portfolio
-image: "images/projects/bf-cerise.jpg"
+image: "images/projects/bf-cerises.jpg"
 subtitle: ["PICTURE BOOK 6+"]
 maison: "ut"
-project_images: ["images/projects/bf-cerise.jpg"]
+project_images: ["images/projects/bf-cerises.jpg"]
 project_images_bottom: ["images/projects/bf-cerise-dp.jpg", "images/projects/bf-cerise-dp2.jpg"]
 ---
 
