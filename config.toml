@@ -11,37 +11,17 @@ summarylength = 25
     name    = "Menu"
     url     = "/"
     weight  = 1
-  [[menu.nav]]
-    name    = "Éditorial"
-    url     = "editorial"
-    weight  = 3
-  [[menu.nav]]
-    name    = "Foreign Rights"
-    url     = "foreign-rights"
-    weight  = 4
-  [[menu.nav]]
-    name    = "Books"
-    url     = "portfolio"
-    weight  = 5
-  [[menu.nav]]
-    name    = "À propos"
-    url     = "about"
-    weight  = 2
-  [[menu.nav]]
-    name    = "Contactez-moi"
-    url     = "contact"
-    weight  = 7
 
 # Site Params
 [params]
   logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "MG | Editor | Agent | Foreign Rights | foreign rights agent| mg_editor_agent | Les petites moustaches | Le muscadier | Utopique | Scrineo | Lectrice | éditrice | Bordeaux | France | Psy Season | Family Kisses | Glows of Traverse | Staying Alive | Lucy | Little Stories of Fashion"
-  author = "Mélanie Guillaumin | editor | agent | foreign rights agent"
+  description = ""
+  author = ""
   # Google Analitycs
-  googleAnalitycsID = "Your ID"
-  formspreeFormUrl  = "https://formspree.io/f/xayaqqok"
+  googleAnalitycsID = ""
+  formspreeFormUrl  = "https://"
 
   # Contact Form
   [params.contactForm]
@@ -88,27 +68,27 @@ summarylength = 25
 
   [params.portfolio]
     enable    = true
-    title     = "NOVELTIES"
-    subtitle = "Foreign Rights"
+    title     = ""
+    subtitle = ""
 
 
   [params.footer]
     # Footer Contact Info
     [params.footer.contactInfo]
-      title   = "MG Editor & Foreign Rights Agent"
-      address = "137 avenue Charles de Gaulle <br> 33200 Bordeaux"
-      phone   = "+ 33 6 23 36 11 02"
-      email   = "melanie.guillaumin.edition@gmail.com"
+      title   = ""
+      address = ""
+      phone   = ""
+      email   = ""
       # Footer Social Media
       [params.footer.social]
-        title   = "Actualités"
+        title   = ""
         [[params.footer.social.link]]
-          name = "Instagram"
-          url  = "https://www.instagram.com/mg_editor_agent"
+          name = ""
+          url  = ""
         [[params.footer.social.link]]
-          name = "Linkedin"
-          url  = "https://www.linkedin.com/company/mg-editor-foreign-rights-agent"
+          name = ""
+          url  = ""
       # Footer Service
       [params.footer.service]
-        title       = "Aider les éditeurs à"
-        description = "trouver des projets <br>les mettre en forme<br>les promouvoir à l'étranger"
+        title       = ""
+        description = ""
